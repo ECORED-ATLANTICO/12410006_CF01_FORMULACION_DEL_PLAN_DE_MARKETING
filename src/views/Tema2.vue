@@ -191,6 +191,7 @@
           figure
             img(src='@/assets/curso/tema2/img_15.png', class="img-fluid") 
 
+      Separador
 
       #t_2_5.titulo-segundo.color-acento-contenido
         .h2(data-aos="fade-right") 2.5 Beneficios
@@ -198,6 +199,141 @@
 
     .bg_img_9.mb-0
     
+      .row.justify-content-center.align-items-center.mb-5
+        .col-10.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
+          figure(data-aos="zoom-out-up")
+            img(src='@/assets/curso/tema2/img_17.png', class="img-fluid")
+        .col-12.col-lg-8
+          p.mb-3(data-aos="zoom-in-right") El mercadeo aporta beneficios tanto a la empresa como al consumidor, ya que facilita el intercambio de valor y mejora la competitividad organizacional. A través de sus estrategias, las empresas pueden posicionarse en el mercado, aumentar sus ventas y construir relaciones sólidas con sus clientes. Por ejemplo, el adecuado posicionamiento de una marca permite incrementar su reconocimiento y la preferencia del consumidor.
+          p.mb-3(data-aos="zoom-in-right") Entre los principales beneficios del mercadeo se destacan:
+          .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
+            SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
+              .tarjeta--color-white.h-100
+                .tarjeta--01
+                .tarjeta--slider__content.text-center.mb-3 Mejora la competitividad: permite diferenciarse en el mercado.
+              .tarjeta--color-white.h-100
+                .tarjeta--02
+                .tarjeta--slider__content.text-center.mb-3 Incrementa las ventas: aumenta la demanda de productos o servicios.
+              .tarjeta--color-white.h-100
+                .tarjeta--03
+                .tarjeta--slider__content.text-center.mb-3 Fortalece la marca: posiciona la empresa en la mente del consumidor.
+              .tarjeta--color-white.h-100
+                .tarjeta--04
+                .tarjeta--slider__content.text-center.mb-3 Fideliza clientes: genera relaciones a largo plazo.
+    
+      Separador
+
+    .bg_img_10.mb-0
+      
+      #t_2_6.titulo-segundo.color-acento-contenido
+        .h2(data-aos="fade-right") 2.6 Características
+      .mb-0 
+
+      p.mb-3(data-aos="zoom-in-right") El mercadeo se caracteriza por ser dinámico, estratégico y orientado al cliente, adaptándose constantemente a los cambios del entorno. Entre sus principales características se destacan: 
+      p.mb-5(data-aos="zoom-in-right") Estas características permiten a las organizaciones responder de manera efectiva a las demandas del mercado.
+
+      Separador
+
+    #t_2_7.titulo-segundo.color-acento-contenido
+      .h2(data-aos="fade-right") 2.7 Estructura
+    .mb-0 
+
+    p.mb-5(data-aos="zoom-in-right") La estructura del mercadeo dentro de una organización define cómo se organizan las funciones comerciales para alcanzar los objetivos estratégicos. Además, permite coordinar áreas como ventas, publicidad e investigación de mercados, optimizando recursos y mejorando la toma de decisiones.
+
+    br
+    br
+    br
+
+    .bg_img_4.mb-0
+    
+      SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5.mb-5
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-0
+            h5.mb-5 Investigación de mercados
+            p.mb-4 #[strong Función:] analizar información del entorno, comportamiento del consumidor y competencia para la toma de decisiones.
+            p.mb-0 #[strong Ejemplos:] encuestas de satisfacción, estudios de tendencias, análisis de datos de clientes.
+          .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/tema2/img_24.png', class="img-fluid")
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-0
+            h5.mb-5 Ventas
+            p.mb-4 #[strong Función:] ejecutar estrategias comerciales para cerrar negocios y generar ingresos.
+            p.mb-0 #[strong Ejemplos:] ventas en tiendas físicas, comercio electrónico, atención personalizada al cliente.
+          .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/tema2/img_25.png', class="img-fluid")
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-0
+            h5.mb-5 Publicidad
+            p.mb-4 #[strong Función:] comunicar el valor del producto o servicio para atraer y persuadir al consumidor.
+            p.mb-0 #[strong Ejemplos:] anuncios en redes sociales, campañas en televisión, marketing con influencers.
+          .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/tema2/img_26.png', class="img-fluid")
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-0
+            h5.mb-5 Servicio al cliente
+            p.mb-4 #[strong Función:] gestionar la relación con el cliente antes, durante y después de la compra.
+            p.mb-0 #[strong Ejemplos:] atención en call center, soporte por chat, manejo de quejas y programas de fidelización.
+          .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/tema2/img_27.png', class="img-fluid")
+
+      br
+    br
+    br
+
+    p.mb-4(data-aos="zoom-in-right") En este contexto, una empresa de servicios integra de manera sistemática estas áreas para garantizar la coherencia entre el análisis, la planificación estratégica y la ejecución operativa, favoreciendo el logro de resultados consistentes.
+
+    Separador
+
+    .bg_img_11.mb-0
+      
+      #t_2_8.titulo-segundo.color-acento-contenido
+        .h2(data-aos="fade-right") 2.8 Segmentación
+      .mb-0 
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-lg-8.order-2.order-lg-1
+          p.mb-3(data-aos="zoom-in-right") La segmentación identifica y clasifica a los clientes en grupos homogéneos según características demográficas, geográficas, psicográficas y de comportamiento. Esta práctica permite a la empresa adaptar su oferta, productos y estrategias comerciales a las necesidades específicas de cada segmento, aumentando la efectividad de sus acciones y optimizando los recursos. Además, facilita la toma de decisiones, la personalización de la experiencia del cliente y la focalización en los segmentos con mayor potencial de crecimiento y fidelización.
+           .tarjeta.tarjeta--fondo-img-2.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
+            .row.justify-content-center.align-items-center.mb-0
+              .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
+                figure
+                  img(src='@/assets/curso/tema2/img_30.png', class="img-fluid")
+              .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
+                p.mb-0 Un caso ilustrativo es el de una cadena de supermercados que puede segmentar a sus clientes según el nivel socioeconómico, los hábitos de compra y la ubicación. De esta manera, tiene la posibilidad de ofrecer productos económicos para ciertos sectores, promociones específicas por zona y surtidos diferenciados de acuerdo con las preferencias del consumidor, lo que contribuye a mejorar la satisfacción y las ventas.
+          p.mb-0(data-aos="zoom-in-right") De manera similar, Spotify segmenta a sus usuarios teniendo en cuenta la edad, los gustos musicales, los hábitos de escucha y el tipo de suscripción (gratuita o premium). Gracias a esta segmentación, la plataforma puede enviar recomendaciones personalizadas, generar playlists adaptadas a cada perfil y ofrecer promociones específicas que fomenten la suscripción premium y el engagement de los usuarios.
+        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+          figure
+            img(src='@/assets/curso/tema2/img_31.png', class="img-fluid") 
+
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
+      .col-12.col-lg-10.mb-5
+        .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
+          .row.align-items-center.mb-0
+            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
+              figure.m-2
+                img(src="@/assets/curso/tema1/img_17.svg" )
+            .col-12.col-md-8.col-lg-10.p-4
+              p.fw-bold.text-white.mb-3 Se invita a consultar el siguiente video para profundizar en el concepto de mercadeo, las variables del marketing mix y su aplicación en contextos empresariales:
+              a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=KiqUOstzOsk" target="_blank")
+                span Marketing mix, Las 4p del Marketing: cómo aplicarlas y ejemplos
+                i.fas.fa-play-circle.ms-2
+    
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
+      .col-12.col-lg-10.mb-5
+        .tarjeta--bg-img.color-primario-70.rounded-3.overflow-hidden.p-2
+          .row.align-items-center.mb-0
+            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
+              figure.m-2
+                img(src="@/assets/curso/tema2/img_32.svg" )
+            .col-12.col-md-8.col-lg-10.p-4
+              p.fw-bold.text-white.mb-3 Con el fin de ampliar la información, se sugiere revisar la unidad de mercadeo y el marketing mix (pp. 77-105), a la cual se puede acceder a través del siguiente enlace:
+              a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://unimayor.edu.co/web/images/investigacionesunimayor/Sello_Editorial/2025/Libros_PDF/Gu%C3%ADa_Fundamentos_Marketing.pdf" target="_blank")
+                span Guía de fundamentos de marketing
+                i.fas.fa-play-circle.ms-2
 </template>
 
 <script>

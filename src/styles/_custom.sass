@@ -2,39 +2,38 @@
 .banner-principal-decorativo
   &-1
     position: absolute
-    top: 26%
-    right: 15%
-    width: 100px
-    animation: orbitPerfect 8s linear infinite
-
-  &-2
-    position: absolute
-    top: 68%
-    right: 90%
-    width: 100px
-    animation: orbitPerfect 10s linear infinite
-
-  &-3
-    position: absolute
-    top: 70%
-    right: 20%
+    top: 25%
+    right: 17%
     width: 80px
     animation: orbitPerfect 12s linear infinite
+    
+  &-2
+    position: absolute
+    top: 18%
+    right: 75%
+    width: 80px
+    animation: orbitPerfect 12s linear infinite
+    
+  &-3
+    position: absolute
+    top: 75%
+    right: 43%
+    width: 80px
 
 @media (min-width: 1025px)
   .banner-principal-decorativo
     &-1
-      top: 26%
-      right: 15%
-      width: 120px
+      top: 25%
+      right: 17%
+      width: 90px
     &-2
-      top: 68%
-      right: 90%
-      width: 130px
+      top: 13%
+      right: 73%
+      width: 100px
     &-3
-      top: 70%
-      right: 20%
-      width: 110px
+      top: 75%
+      right: 43%
+      width: 100px
 
 @keyframes orbitPerfect
   from
@@ -101,6 +100,38 @@ figcaption
 .b 
   font-weight: bold
 
+
+// factores-slider custom-slider
+.factores-slider, .custom-slider
+  &__icon 
+    max-height: 93px
+  .slyder-f
+    align-items: center
+    justify-content: center
+    gap: 0
+  .slyder-f__btn
+    background-color: $color-acento-botones
+    height: 42px
+    width: 42px
+    min-width: 42px
+    border-radius: 50%
+    padding: 0 !important
+    transition: transform 0.3s
+    z-index: 100
+    
+    &:hover
+      transform: scale(1.1)
+    .fa-chevron-left, .fa-chevron-right
+      font-size: 1.5rem
+    &.ps-3
+      margin-left: 7px
+      @media (max-width: 1024px)
+        margin-left: 7px
+    &.pe-3
+      margin-right: 7px
+      @media (max-width: 1024px)
+        margin-right: 7px
+    
   
 // Fondos 
 .bg_img
@@ -254,6 +285,78 @@ figcaption
       width: calc(100% + 96px)
       height: 100%
       background-image: url('../assets/curso/tema2/img_13.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_9
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema2/img_16.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_10
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema2/img_22.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_11
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema2/img_28.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_12
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema3/img_1.svg') !important
       background-repeat: no-repeat
       background-size: cover 
       background-position: center

@@ -33,6 +33,25 @@
       background-color: $white
       color: textColor(lighten($color-sistema-h, 50%))
       border: solid 4px $color-sistema-h
+  &--fondo-img-2
+    background-image: url(../assets/curso/tema2/img_29.png) !important
+    border-radius: 20px
+    padding: 12rem 1rem 1rem 1rem 
+    position: relative
+    display: flex
+    flex-direction: column
+    overflow: hidden 
+    background-repeat: no-repeat
+    background-size: cover 
+    background-position: center
+    overflow: hidden 
+    pointer-events: none
+    *
+      color: textColor($color-sistema-h)
+    &--borde
+      background-color: $white
+      color: textColor(lighten($color-sistema-h, 50%))
+      border: solid 4px $color-sistema-h
 
   &--gris
     background-color: $color-sistema-h
@@ -95,6 +114,22 @@
         background-color: lighten($color-primario-10, 50%)
         color: textColor(lighten($color-primario-10, 50%))
         border: solid 4px $color-primario-10
+    &.color-primario-60
+      background-color: $color-primario-60
+      *
+        color: textColor($color-primario-60)
+      &--borde
+        background-color: lighten($color-primario-60, 50%)
+        color: textColor(lighten($color-primario-60, 50%))
+        border: solid 4px $color-primario-60
+    &.color-primario-70
+      background-color: $color-primario-70
+      *
+        color: textColor($color-primario-70)
+      &--borde
+        background-color: lighten($color-primario-70, 50%)
+        color: textColor(lighten($color-primario-70, 50%))
+        border: solid 4px $color-primario-70
     &.color-secundario
       background-color: $color-secundario
       *
@@ -261,7 +296,7 @@
   &--color-white
     background-color: $white
     border-radius: 20px
-    padding: 12rem 1rem 1rem 1rem 
+    padding: 11rem 3rem 1rem 3rem
     position: relative
     display: flex
     flex-direction: column
@@ -277,7 +312,25 @@
 
   &--01::before
     position: absolute
-    content: url('../assets/curso/introduccion/img_1.svg')
+    content: url('../assets/curso/tema2/img_18.svg')
+    top: 60px
+    left: 50%
+    transform: translateX(-50%)
+  &--02::before
+    position: absolute
+    content: url('../assets/curso/tema2/img_19.svg')
+    top: 60px
+    left: 50%
+    transform: translateX(-50%)
+  &--03::before
+    position: absolute
+    content: url('../assets/curso/tema2/img_20.svg')
+    top: 60px
+    left: 50%
+    transform: translateX(-50%)
+  &--04::before
+    position: absolute
+    content: url('../assets/curso/tema2/img_21.svg')
     top: 60px
     left: 50%
     transform: translateX(-50%)
@@ -327,7 +380,14 @@
     &--borde
       background-color: lighten($color-primario-20, 50%)
       color: textColor(lighten($color-primario-20, 50%))
-      border: solid 4px $color-primario-20
+  &.color-primario-60
+    background-color: $color-primario-60
+    *
+      color: textColor($color-primario-60)
+    &--borde
+      background-color: lighten($color-primario-60, 50%)
+      color: textColor(lighten($color-primario-60, 50%))
+      border: solid 4px $color-primario-60
   &.color-secundario
     background-color: $color-secundario
     *

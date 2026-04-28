@@ -173,7 +173,7 @@
             p.mb-0 #[strong Aplicación práctica:] expansión o diversificación.
           .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
             figure
-              img(src='@/assets/curso/tema1/img_14.png', class="img-fluid")
+              img(src='c/img_14.png', class="img-fluid")
 
       br
     br
@@ -183,6 +183,37 @@
 
     .bg_img_5.mb-0
     
+      .row.justify-content-center.align-items-center.mt-5.mb-5
+        .col-12.col-lg-8
+          .tarjeta.color-primario-60.p-5.rounded-3.mb-3(data-aos="zoom-in-right")
+            .row.justify-content-center.align-items-center.mb-0
+              .col-8.col-lg-6.mb-lg-0.mb-3
+                figure
+                  img(src="@/assets/curso/tema1/img_16.png", class="img-fluid w-100")
+              .col-12.col-lg-6.mb-lg-0
+                h2.mb-5.text-white Pódcast
+                TarjetaAudio.color-acento-botones.mb-0.p-4(
+                  texto="<I>Fundamentos del plan de marketing</I>"
+                  :audio="require('@/assets/curso/tema1/img_16.png')"
+                  @audio-hover="mostrarIndicadorTarjetaAudio = True")
+                  .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
+
+      .row.justify-content-center.align-items-center(data-aos="fade-right")
+        .col-12.col-lg-10.mb-5
+          .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden
+            .row.align-items-center.mb-0
+              .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
+                figure.m-2
+                  img(src="@/assets/curso/tema1/img_17.svg" )
+              .col-12.col-md-8.col-lg-10.p-4
+                p.fw-bold.text-white.mb-3 Se recomienda revisar los siguientes videos con el fin de profundizar en la elaboración y aplicación del plan de marketing en contextos empresariales reales:
+                a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=4LmLWpkUVYU" target="_blank")
+                  span Plan de marketing qué es y Cómo hacer uno (Plan de Mercadeo)
+                  i.fas.fa-play-circle.ms-2
+                br
+                a.boton.color-acento-botones.d-inline-flex.mt-2(href="https://www.youtube.com/watch?v=agXQ9ViaYD8" target="_blank")
+                  span Plan de marketing tradicional
+                  i.fas.fa-play-circle.ms-2
 </template>
 
 <script>
