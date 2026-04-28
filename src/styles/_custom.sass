@@ -1,33 +1,261 @@
+///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 26%
+    right: 15%
+    width: 100px
+    animation: orbitPerfect 8s linear infinite
+
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 68%
+    right: 90%
+    width: 100px
+    animation: orbitPerfect 10s linear infinite
 
+  &-3
+    position: absolute
+    top: 70%
+    right: 20%
+    width: 80px
+    animation: orbitPerfect 12s linear infinite
 
-@keyframes float1
-  0%
-    transform: translateY(20px)
+@media (min-width: 1025px)
+  .banner-principal-decorativo
+    &-1
+      top: 26%
+      right: 15%
+      width: 120px
+    &-2
+      top: 68%
+      right: 90%
+      width: 130px
+    &-3
+      top: 70%
+      right: 20%
+      width: 110px
 
-  100%
-    transform: translateY(0px)
-  
-  
+@keyframes orbitPerfect
+  from
+    transform: rotate(0deg) translateX(12px) rotate(0deg)
+  to
+    transform: rotate(360deg) translateX(12px) rotate(-360deg)
+    
 .banner-principal .tarjeta
   background-position: left 50% !important
 
+.titulo-principal__numero
+  min-width: 45px
+  height: 45px
+  margin-right: 15px
+  position: relative
+  background-color: $color-acento-contenido !important
+  
+.banner-interno__fondo 
+  background-image: url('../assets/curso/portada/banner_interno.png') !important
+
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  width: 500px !important
+  padding-bottom: 0rem !important
+  @media screen and (max-width: $bp-max-xl)
+    width: 400px !important
+
+.banner-principal .tarjeta
+  background-position: left 50% !important
+  @media screen and (max-width: 769px)
+    background-image: url(../assets/curso/portada/fondo-banner-principal-xs.png) !important
+  @media screen and (max-width: 430px)
+    background-image: url(../assets/curso/portada/fondo-banner-principal-sm.png) !important
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: $color-sistema-texto
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important   
+  color: $white!important
+
+.banner-interno__titulo__icono i
+  color: $white
+
+.banner-interno__titulo__icono 
+  background: $color-primario
+
+.banner-interno__titulo h2
+  color: $color-sistema-texto
+ 
+.barra-avance__boton--regresar span
+  color: $color-sistema-texto !important
 
 figcaption
   font-weight: normal
- 
+
+// Tabla a 
+.tabla-a thead
+  border-top: 10px $color-adicional-1 solid
+  color: $color-sistema-a
+  background-color: $color-adicional-2
+
+.bg-table-01
+  background-color: $color-adicional-2
+  color: $color-sistema-texto
+.b 
+  font-weight: bold
+
+  
+// Fondos 
+.bg_img
+  &_1
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: -40px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/introduccion/img_1.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_2
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema1/img_2.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_3
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema1/img_5.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_4
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: -80px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 115%
+      background-image: url('../assets/curso/tema1/img_8.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+    .slyder-a__tipo-b .slyder-a__btn--sigt
+      background-color: $color-acento-botones
+    .slyder-a__tipo-b .slyder-a__btn--atrs
+      background-color: $color-acento-botones
+    .slyder-a__bullets__item--active
+      background-color: $color-secundario-70 !important
+      border-color: $color-secundario-70 !important
+      opacity: 1
+    .slyder-a__bullets__item
+      background-color: lighten($color-secundario-70, 15%)
+      border: 1px solid lighten($color-secundario-70, 15%)
+  &_5
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema1/img_15.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_6
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema2/img_2.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_7
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema2/img_8.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_8
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema2/img_13.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none

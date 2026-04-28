@@ -1,17 +1,22 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Fundamentos del plan de marketing',
+    Description:
+      'El componente formativo desarrolla los fundamentos del plan de marketing, orientando el análisis del entorno empresarial y las variables del mercadeo. Integra herramientas estratégicas que permiten interpretar la situación organizacional, identificar oportunidades y apoyar la toma de decisiones comerciales. Asimismo, fortalece la comprensión del mercado, la segmentación y la planificación como base para estructurar estrategias alineadas con los objetivos empresariales.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
       },
     ],
   },
@@ -52,6 +57,18 @@ export default {
         nombreRuta: 'tema3',
         numero: '3',
         titulo: 'Tema 3',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Tema 4',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Tema 5',
         desarrolloContenidos: true,
       },
     ],
@@ -104,20 +121,14 @@ export default {
     {
       tema: '',
       referencia: '',
-      tipo: 'Sitio web',
-      link: '',
-    },
-    {
-      tema: '',
-      referencia: '',
       tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      link: '',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: '',
+      significado: '',
     },
   ],
   referencias: [
@@ -131,14 +142,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+          centro: 'Centro Agroturistico - Regional Santander',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Miguel de Jesús Paredes Maestre ',
+          cargo: 'Responsable de la línea de producción ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
