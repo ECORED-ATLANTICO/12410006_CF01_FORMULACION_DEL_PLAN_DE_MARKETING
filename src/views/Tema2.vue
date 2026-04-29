@@ -7,7 +7,7 @@
         span 2
       h1 Mercadeo
 
-    .bloque-texto-g.bloque-texto-g.color-secundario-20.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
+    .bloque-texto-g.color-secundario-20.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img_1.png')})`}"
       )
@@ -231,6 +231,21 @@
 
       p.mb-3(data-aos="zoom-in-right") El mercadeo se caracteriza por ser dinámico, estratégico y orientado al cliente, adaptándose constantemente a los cambios del entorno. Entre sus principales características se destacan: 
       p.mb-5(data-aos="zoom-in-right") Estas características permiten a las organizaciones responder de manera efectiva a las demandas del mercado.
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-lg-4.mb-3.mb-lg-0
+          .tarjeta.color-primario-5.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
+            p.mb-0(data-aos="zoom-in-right") Enfoque en el cliente.
+          .tarjeta.color-primario-5.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
+            p.mb-0(data-aos="zoom-in-right") Orientación estratégica.
+        .col-12.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+          figure
+            img(src='@/assets/curso/tema2/img_23.png', class="img-fluid")
+        .col-12.col-lg-4.mb-3.mb-lg-0
+          .tarjeta.color-primario-5.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
+            p.mb-0(data-aos="zoom-in-right") Adaptabilidad al entorno.
+          .tarjeta.color-primario-5.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
+            p.mb-0(data-aos="zoom-in-right") Uso de información para decisiones.
 
       Separador
 

@@ -4,15 +4,15 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.overflow-hidden
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 5
-      h1 Matriz DOFA
+        span 7
+      h1 Tema 7
 
 
 </template>
 
 <script>
 export default {
-  name: 'Tema5',
+  name: 'Tema7',
   data: () => ({
     // variables de vue
   }),

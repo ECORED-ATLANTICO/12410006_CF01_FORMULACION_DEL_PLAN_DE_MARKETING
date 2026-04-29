@@ -95,18 +95,34 @@
     .pasos-a
       &__numero
         &::after
-          border-left-color: $color-secundario
+          border-left-color: $color-acento-contenido
       &__linea
         .hor-line
-          border-top-color: $color-secundario
+          border-top-color: $color-acento-contenido
 
         &__esquina
           &__linea
-            border-color: $color-secundario
+            border-color: $color-acento-contenido
       &__circle
         background-color: $color-secundario
         div
           color: textColor($color-secundario)
+  &.color-terciario
+    .pasos-a
+      &__numero
+        &::after
+          border-left-color: $color-acento-contenido-10
+      &__linea
+        .hor-line
+          border-top-color: $color-acento-contenido-10
+
+        &__esquina
+          &__linea
+            border-color: $color-acento-contenido-10
+      &__circle
+        background-color: $color-terciario
+        div
+          color: textColor($color-terciario)
   &.color-acento-contenido
     .pasos-a
       &__numero
@@ -288,6 +304,13 @@
         background-color: $color-secundario
         span
           color: textColor($color-secundario)
+  &.color-terciario
+    .pasos-b__header__item--active
+      .pasos-b__header__item__dot
+        border-color: $color-terciario
+        background-color: $color-terciario
+        span
+          color: textColor($color-terciario)
   &.color-acento-contenido
     .pasos-b__header__item--active
       .pasos-b__header__item__dot
@@ -305,3 +328,20 @@
 
   .indicador__container
     transform: translateY(15px)
+
+.pasos-a--letras
+  counter-reset: pasos-letras
+
+  .pasos-a__circle
+    position: relative
+
+    &::after
+      counter-increment: pasos-letras
+      content: counter(pasos-letras, upper-alpha)
+      position: absolute
+      top: 50%
+      left: 50%
+      transform: translate(-50%, -50%)
+      font-weight: bold
+      font-size: 18px
+      color: $black
