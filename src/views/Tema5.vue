@@ -106,7 +106,61 @@
     p.mb-4(data-aos="zoom-in-right") La elaboración de la matriz DOFA implica un proceso organizado que permite identificar y relacionar los factores estratégicos de la empresa. 
 
     .bg_img_23.mb-0
-    
+
+      .row.justify-content-center.mb-5
+        .col-12
+          .row.g-0.overflow-hidden.rounded-4
+            .col-lg-6
+              .tarjeta.color-secundario-10.rounded-0.h-100.p-5(style="background-color:#dbeeff;")
+                .d-flex.align-items-end.mb-4
+                  img(src="@/assets/curso/tema5/img_11.svg", class="img-fluid", style="width:70px").me-3
+                  h5.mb-0 Fases para su desarrollo
+
+                ul.list-unstyled.mb-0
+                  li.d-flex.align-items-start.mb-3
+                    i.fa-solid.fa-circle-check.me-2.mt-1(style="color:#ff6b81; font-size:12px;")
+                    span #[strong Identificación de factores internos:] reconocer fortalezas y debilidades de la organización.
+
+                  li.d-flex.align-items-start.mb-3
+                    i.fa-solid.fa-circle-check.me-2.mt-1(style="color:#ff6b81; font-size:12px;")
+                    span #[strong Identificación de factores externos:] analizar oportunidades y amenazas del entorno.
+
+                  li.d-flex.align-items-start.mb-3
+                    i.fa-solid.fa-circle-check.me-2.mt-1(style="color:#ff6b81; font-size:12px;")
+                    span #[strong Organización de la información:] clasificar los factores en la matriz DOFA.
+
+                  li.d-flex.align-items-start.mb-3
+                    i.fa-solid.fa-circle-check.me-2.mt-1(style="color:#ff6b81; font-size:12px;")
+                    span #[strong Análisis cruzado:] relacionar los elementos para generar estrategias.
+
+                  li.d-flex.align-items-start
+                    i.fa-solid.fa-circle-check.me-2.mt-1(style="color:#ff6b81; font-size:12px;")
+                    span #[strong Formulación estratégica:] definir acciones a partir de las combinaciones DOFA.
+            .col-lg-6
+              .tarjeta.color-primario-10.rounded-0.h-100.p-5(style="background-color:#f2e6fa;")
+                .d-flex.align-items-end.mb-4
+                  img(src="@/assets/curso/tema5/img_12.svg", class="img-fluid", style="width:70px").me-3
+                  h5.mb-0 Estrategias DOFA
+
+                p.mb-4 Las estrategias se generan a partir de la relación entre factores internos y externos:
+
+                ul.list-unstyled.mb-0
+                  li.d-flex.align-items-start.mb-3
+                    i.fa-solid.fa-circle-check.me-2.mt-1(style="color:#ff6b81; font-size:12px;")
+                    span #[strong FO (Fortalezas – Oportunidades):] aprovechar fortalezas para explotar oportunidades.
+
+                  li.d-flex.align-items-start.mb-3
+                    i.fa-solid.fa-circle-check.me-2.mt-1(style="color:#ff6b81; font-size:12px;")
+                    span #[strong DO (Debilidades – Oportunidades):] superar debilidades utilizando oportunidades.
+
+                  li.d-flex.align-items-start.mb-3
+                    i.fa-solid.fa-circle-check.me-2.mt-1(style="color:#ff6b81; font-size:12px;")
+                    span #[strong FA (Fortalezas – Amenazas):] usar fortalezas para enfrentar amenazas.
+
+                  li.d-flex.align-items-start
+                    i.fa-solid.fa-circle-check.me-2.mt-1(style="color:#ff6b81; font-size:12px;")
+                    span #[strong DA (Debilidades – Amenazas):] minimizar debilidades y evitar riesgos.
+
       .row.justify-content-center.align-items-center.mb-4
         .col-12.col-lg-10.mb-3
           .titulo-sexto.color-acento-contenido

@@ -309,6 +309,22 @@
       color: textColor(lighten($color-sistema-h, 50%))
       border: solid 4px $color-sistema-h
       box-shadow: 8px 8px 20px rgba(0,0,0,0.15)
+  &--color-white-2
+    background-color: $white
+    border-radius: 20px
+    padding: 11rem 1.5rem 1rem 1.5rem
+    position: relative
+    display: flex
+    flex-direction: column
+    overflow: hidden 
+    box-shadow: 8px 8px 20px rgba(0,0,0,0.15)
+    *
+      color: textColor($color-sistema-h)
+    &--borde
+      background-color: $white
+      color: textColor(lighten($color-sistema-h, 50%))
+      border: solid 4px $color-sistema-h
+      box-shadow: 8px 8px 20px rgba(0,0,0,0.15)
 
   &--01::before
     position: absolute
@@ -331,6 +347,30 @@
   &--04::before
     position: absolute
     content: url('../assets/curso/tema2/img_21.svg')
+    top: 60px
+    left: 50%
+    transform: translateX(-50%)
+  &--05::before
+    position: absolute
+    content: url('../assets/curso/tema7/img_13.svg')
+    top: 60px
+    left: 50%
+    transform: translateX(-50%)
+  &--06::before
+    position: absolute
+    content: url('../assets/curso/tema7/img_14.svg')
+    top: 60px
+    left: 50%
+    transform: translateX(-50%)
+  &--07::before
+    position: absolute
+    content: url('../assets/curso/tema7/img_15.svg')
+    top: 60px
+    left: 50%
+    transform: translateX(-50%)
+  &--08::before
+    position: absolute
+    content: url('../assets/curso/tema7/img_16.svg')
     top: 60px
     left: 50%
     transform: translateX(-50%)
