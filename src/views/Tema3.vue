@@ -11,14 +11,14 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-8.order-2.order-lg-1
-          p.mb-4(data-aos="zoom-in-right") La empresa constituye el eje central del plan de marketing, ya que es el sujeto estratégico que interactúa con el mercado, gestiona recursos y define su propuesta de valor. Su análisis permite comprender la capacidad organizacional, su direccionamiento estratégico y su oferta, elementos fundamentales para la formulación de decisiones comerciales coherentes con el entorno.
+          p.mb-4(data-aos="zoom-in-right") La empresa constituye el eje central del plan de <em>marketing</em>, ya que es el sujeto estratégico que interactúa con el mercado, gestiona recursos y define su propuesta de valor. Su análisis permite comprender la capacidad organizacional, su direccionamiento estratégico y su oferta, elementos fundamentales para la formulación de decisiones comerciales coherentes con el entorno.
            .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema3/img_2.png', class="img-fluid")
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-                p.mb-0 El estudio de la empresa dentro del plan de marketing no se limita a su descripción general, sino que implica un análisis estructurado de su evolución, su orientación estratégica, su portafolio y las fuentes de información que soportan la toma de decisiones. Este enfoque permite articular el diagnóstico interno con las oportunidades del mercado.
+                p.mb-0 El estudio de la empresa dentro del plan de <em>marketing</em> no se limita a su descripción general, sino que implica un análisis estructurado de su evolución, su orientación estratégica, su portafolio y las fuentes de información que soportan la toma de decisiones. Este enfoque permite articular el diagnóstico interno con las oportunidades del mercado.
         .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema3/img_3.png', class="img-fluid") 
@@ -75,7 +75,7 @@
               .col-12.col-lg-8
                 h3.text-start Siglo XX (empresa moderna)
                 p.text-start.mb-0 #[strong Características:] consolidación de grandes empresas, globalización inicial y enfoque en productividad.
-                p.text-start.mb-0 #[strong Forma de organización:] empresas estructuradas por áreas (marketing, finanzas, producción). Ejemplo: Ford, Coca-Cola.
+                p.text-start.mb-0 #[strong Forma de organización:] empresas estructuradas por áreas (<em>marketing</em>, finanzas, producción). Ejemplo: Ford, Coca-Cola.
             .row.d-flex.justify-content-center.align-items-center
               .col-12.col-lg-8.order-2.order-lg-1
                 h3 Finales del siglo XX
@@ -142,7 +142,7 @@
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema3/img_16.png', class="img-fluid")
-          p.mb-0(data-aos="zoom-in-right") Este componente es fundamental dentro del plan de marketing, ya que asegura que las estrategias comerciales estén alineadas con la identidad y proyección de la organización.
+          p.mb-0(data-aos="zoom-in-right") Este componente es fundamental dentro del plan de <em>marketing</em>, ya que asegura que las estrategias comerciales estén alineadas con la identidad y proyección de la organización.
 
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
         h5 Tabla 4.
@@ -174,7 +174,7 @@
               td.text-start Son los principios éticos y culturales que orientan el comportamiento organizacional y la toma de decisiones.
               td.text-start Influyen en la cultura empresarial, la relación con clientes y la reputación de la marca.
     
-    p.mb-5(data-aos="zoom-in-right") Empresas como Nike orientan su estrategia hacia la innovación y el rendimiento deportivo, alineando su marketing con inspiración, tecnología y experiencia del usuario.
+    p.mb-5(data-aos="zoom-in-right") Empresas como Nike orientan su estrategia hacia la innovación y el rendimiento deportivo, alineando su <em>marketing</em> con inspiración, tecnología y experiencia del usuario.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-3.order-2.order-lg-1
@@ -224,7 +224,7 @@
             img(src='@/assets/curso/tema3/img_20.png', class="img-fluid") 
       
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
-        h5 Tabla 4.
+        h5 Tabla 5.
         |  Resumen características del portafolio de ventas
       .tabla-a.mb-5(data-aos="flip-left")
         table
@@ -237,7 +237,7 @@
               th.col-auto.col-lg-auto Ejemplo
           tbody
             tr
-              td.text-start Diversificado
+              td.text-start Diversificado.
               td.text-start Incluye productos de diferentes categorías.
               td.text-start Procter & Gamble.
             tr
@@ -288,7 +288,7 @@
               span Permite organizar la oferta comercial de forma estructurada.
             li.d-flex.align-items-start.mb-0
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
-              span Facilita la toma de decisiones en marketing y ventas.
+              span Facilita la toma de decisiones en <em>marketing</em> y ventas.
             li.d-flex.align-items-start.mb-0
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
               span Mejora la comunicación con los clientes.
@@ -357,11 +357,11 @@
       .h2(data-aos="fade-right") 3.4 Fuentes de información
     .mb-0 
 
-    p.mb-4(data-aos="zoom-in-right") Las fuentes de información son los medios a través de los cuales la empresa obtiene datos relevantes para la toma de decisiones en marketing. Estas fuentes permiten comprender el entorno, el comportamiento del consumidor y la dinámica competitiva. Se clasifican en fuentes internas y externas, ambas necesarias para construir un diagnóstico integral.
+    p.mb-4(data-aos="zoom-in-right") Las fuentes de información son los medios a través de los cuales la empresa obtiene datos relevantes para la toma de decisiones en <em>marketing</em>. Estas fuentes permiten comprender el entorno, el comportamiento del consumidor y la dinámica competitiva. Se clasifican en fuentes internas y externas, ambas necesarias para construir un diagnóstico integral.
 
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
       h5 Tabla 6.
-      |  Fuentes de información en marketing
+      |  Fuentes de información en <em>marketing</em>
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
@@ -373,11 +373,11 @@
             th.col-auto.col-lg-auto Ejemplos
         tbody
           tr
-            td.text-start Internas
+            td.text-start Internas.
             td.text-start Información generada dentro de la empresa a partir de sus operaciones y procesos.
             td.text-start Ventas, bases de datos de clientes, reportes internos, historial de compras.
           tr
-            td.text-start Externas
+            td.text-start Externas.
             td.text-start Información proveniente del entorno que permite analizar el mercado y la competencia.
             td.text-start Estudios de mercado, análisis de competencia, tendencias del sector.
           tr

@@ -29,7 +29,7 @@
           .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-                p.mb-0 Las herramientas de análisis de mercadeo son procedimientos técnicos que permiten recolectar, procesar y analizar información relevante para la gestión comercial. Su propósito es convertir datos dispersos en insumos estratégicos que orienten la planificación y ejecución de acciones de marketing. A través de su uso, las organizaciones pueden comprender mejor a sus clientes, anticipar movimientos del entorno y evaluar su capacidad interna para competir en el mercado.
+                p.mb-0 Las herramientas de análisis de mercadeo son procedimientos técnicos que permiten recolectar, procesar y analizar información relevante para la gestión comercial. Su propósito es convertir datos dispersos en insumos estratégicos que orienten la planificación y ejecución de acciones de <em>marketing</em>. A través de su uso, las organizaciones pueden comprender mejor a sus clientes, anticipar movimientos del entorno y evaluar su capacidad interna para competir en el mercado.
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema4/img_4.png', class="img-fluid")
@@ -99,7 +99,7 @@
         .h2(data-aos="fade-right") 4.3 Aplicación
       .mb-0 
 
-      p.mb-4(data-aos="zoom-in-right") La aplicación de las herramientas de análisis de mercadeo se concentra en el diagnóstico estratégico, etapa clave del plan de marketing donde se evalúa la situación actual de la empresa frente al mercado. Su uso permite estructurar decisiones más coherentes, alineando las capacidades organizacionales con las condiciones del entorno.
+      p.mb-4(data-aos="zoom-in-right") La aplicación de las herramientas de análisis de mercadeo se concentra en el diagnóstico estratégico, etapa clave del plan de <em>marketing</em> donde se evalúa la situación actual de la empresa frente al mercado. Su uso permite estructurar decisiones más coherentes, alineando las capacidades organizacionales con las condiciones del entorno.
       
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
         h5 Tabla 8.

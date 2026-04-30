@@ -33,7 +33,7 @@
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema6/img_4.png', class="img-fluid")
-          p.mb-3(data-aos="zoom-in-right") A través de este análisis, la empresa puede anticiparse a cambios del entorno y adaptar sus estrategias de marketing y operación de manera oportuna.
+          p.mb-3(data-aos="zoom-in-right") A través de este análisis, la empresa puede anticiparse a cambios del entorno y adaptar sus estrategias de <em>marketing</em> y operación de manera oportuna.
           .tarjeta.color-primario-10.p-4.rounded-4.mb-5(data-aos="zoom-in-right")
             p.mb-0 Una empresa de alimentos puede analizar regulaciones sanitarias (legal), cambios en el poder adquisitivo (económico) y tendencias de consumo saludable (social) para ajustar su portafolio.
 

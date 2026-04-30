@@ -22,12 +22,13 @@ export default {
       introduccion:
         '<b> Objetivo:</b> Evaluar la comprensión del plan de 𝘮𝘢𝘳𝘬𝘦𝘵𝘪𝘯𝘨 mediante el análisis del entorno y las variables del mercadeo para apoyar decisiones comerciales.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
-          texto: 'El plan de marketing orienta decisiones estratégicas.',
+          texto:
+            'El plan de <em>marketing</em> orienta decisiones estratégicas.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -41,7 +42,7 @@ export default {
         },
         {
           id: 2,
-          texto: 'El marketing se limita a la venta.',
+          texto: 'El <em>marketing</em> se limita a la venta.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -153,7 +154,7 @@ export default {
         },
         {
           id: 10,
-          texto: 'El marketing puede ser innato e improvisado.',
+          texto: 'El <em>marketing</em> puede ser innato e improvisado.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -223,7 +224,7 @@ export default {
         },
         {
           id: 15,
-          texto: 'El marketing mix incluye variables controlables',
+          texto: 'El <em>marketing mix</em> incluye variables controlables',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -237,7 +238,7 @@ export default {
         },
         {
           id: 16,
-          texto: 'En el plan de marketing el cliente no es relevante.',
+          texto: 'En el plan de <em>marketing</em> el cliente no es relevante.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -279,7 +280,8 @@ export default {
         },
         {
           id: 19,
-          texto: 'El marketing no requiere análisis, requiere intuición.',
+          texto:
+            'El <em>marketing</em> no requiere análisis, requiere intuición.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -306,9 +308,10 @@ export default {
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
       ],
-      mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
+      mensaje_final_aprobado:
+        '¡Excelente! Lo felicito, ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
       mensaje_final_reprobado:
-        'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+        'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
   }),
 }

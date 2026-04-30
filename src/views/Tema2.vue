@@ -104,7 +104,7 @@
     .bg_img_7.mb-0
 
       #t_2_3.titulo-segundo.color-acento-contenido
-        .h2(data-aos="fade-right") 2.3 Variables del mix
+        .h2(data-aos="fade-right") 2.3 Variables del <em>mix</em> 
       .mb-0 
 
       .row.justify-content-center.align-items-center.mb-5
@@ -115,15 +115,15 @@
           .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-                p.mb-0 El marketing mix corresponde al conjunto de variables que la empresa controla para influir en el mercado y en las decisiones de compra de los consumidores. Estas variables permiten estructurar la oferta, definir estrategias comerciales y posicionar productos o servicios de manera efectiva frente a la competencia.
+                p.mb-0 El <em>marketing mix</em> corresponde al conjunto de variables que la empresa controla para influir en el mercado y en las decisiones de compra de los consumidores. Estas variables permiten estructurar la oferta, definir estrategias comerciales y posicionar productos o servicios de manera efectiva frente a la competencia.
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema2/img_10.png', class="img-fluid")
-          p.mb-0(data-aos="zoom-in-right") A través del manejo adecuado del producto, precio, plaza y promoción, las organizaciones pueden responder a las necesidades del cliente, generar valor y alcanzar sus objetivos comerciales. Además, el marketing mix facilita la toma de decisiones estratégicas, permitiendo ajustar las acciones según el comportamiento del mercado y las tendencias del entorno.  A continuación, se presentan las variables y aplicabilidad:
+          p.mb-0(data-aos="zoom-in-right") A través del manejo adecuado del producto, precio, plaza y promoción, las organizaciones pueden responder a las necesidades del cliente, generar valor y alcanzar sus objetivos comerciales. Además, el <em>marketing mix</em> facilita la toma de decisiones estratégicas, permitiendo ajustar las acciones según el comportamiento del mercado y las tendencias del entorno.  A continuación, se presentan las variables y aplicabilidad:
 
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
         h5 Tabla 3.
-        |  Variables del marketing mix
+        |  Variables del <em>marketing mix</em>
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
@@ -136,24 +136,24 @@
             th.col-auto.col-lg-3 Empresas que lo aplican
         tbody
           tr
-            td.text-start Producto
+            td.text-start Producto.
             td.text-start Bien o servicio ofrecido que satisface una necesidad o deseo del cliente.
-            td.text-start Teléfonos inteligentes, ropa, alimentos, servicios de streaming.
+            td.text-start Teléfonos inteligentes, ropa, alimentos, servicios de <em>streaming</em>.
             td.text-start Apple, Nike, Éxito, Netflix.
           tr
-            td.text-start Precio
+            td.text-start Precio.
             td.text-start Valor monetario asignado según costos, competencia y percepción de valor.
-            td.text-start Precios bajos diarios, descuentos por temporada, precios premium, combos promocionales.
+            td.text-start Precios bajos diarios, descuentos por temporada, precios <em>premium</em>, combos promocionales.
             td.text-start Walmart, D1, Ara, Amazon.
           tr
             td.text-start Plaza.
             td.text-start Canales de distribución utilizados para llevar el producto al consumidor.
-            td.text-start Tiendas físicas, supermercados, comercio electrónico, domicilios, apps móviles.
+            td.text-start Tiendas físicas, supermercados, comercio electrónico, domicilios, <em>apps</em> móviles.
             td.text-start Éxito, Olímpica, Mercado Libre, Rappi.
           tr
             td.text-start Promoción.
             td.text-start Estrategias de comunicación para dar a conocer y posicionar el producto.
-            td.text-start Publicidad en redes sociales, ofertas 2 x 1, cupones, influencers, campañas en TV.
+            td.text-start Publicidad en redes sociales, ofertas 2 x 1, cupones, <em>influencers</em>, campañas en TV.
             td.text-start Coca-Cola, Pepsi, Falabella, Jumbo.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -161,7 +161,7 @@
         .tarjeta.color-primario-5.p-5.rounded-4.mb-3(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
             .col-12.col-lg-12.mb-0(data-aos="zoom-in-right")
-              p.mb-3 Por ejemplo, Apple combina diseño (producto), precios premium, distribución selectiva y campañas publicitarias para fortalecer su posicionamiento.
+              p.mb-3 Por ejemplo, Apple combina diseño (producto), precios <em>premium</em>, distribución selectiva y campañas publicitarias para fortalecer su posicionamiento.
             .col-lg-6.d-lg-block.d-none(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema2/img_11.png', class="img-fluid")
@@ -282,7 +282,7 @@
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5.mb-5 Publicidad
             p.mb-4 #[strong Función:] comunicar el valor del producto o servicio para atraer y persuadir al consumidor.
-            p.mb-0 #[strong Ejemplos:] anuncios en redes sociales, campañas en televisión, marketing con influencers.
+            p.mb-0 #[strong Ejemplos:] anuncios en redes sociales, campañas en televisión, <em>marketing</em> con <em>influencers</em>.
           .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/tema2/img_26.png', class="img-fluid")
@@ -290,7 +290,7 @@
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5.mb-5 Servicio al cliente
             p.mb-4 #[strong Función:] gestionar la relación con el cliente antes, durante y después de la compra.
-            p.mb-0 #[strong Ejemplos:] atención en call center, soporte por chat, manejo de quejas y programas de fidelización.
+            p.mb-0 #[strong Ejemplos:] atención en <em>call center</em>, soporte por chat, manejo de quejas y programas de fidelización.
           .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/tema2/img_27.png', class="img-fluid")
@@ -319,7 +319,7 @@
                   img(src='@/assets/curso/tema2/img_30.png', class="img-fluid")
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                 p.mb-0 Un caso ilustrativo es el de una cadena de supermercados que puede segmentar a sus clientes según el nivel socioeconómico, los hábitos de compra y la ubicación. De esta manera, tiene la posibilidad de ofrecer productos económicos para ciertos sectores, promociones específicas por zona y surtidos diferenciados de acuerdo con las preferencias del consumidor, lo que contribuye a mejorar la satisfacción y las ventas.
-          p.mb-0(data-aos="zoom-in-right") De manera similar, Spotify segmenta a sus usuarios teniendo en cuenta la edad, los gustos musicales, los hábitos de escucha y el tipo de suscripción (gratuita o premium). Gracias a esta segmentación, la plataforma puede enviar recomendaciones personalizadas, generar playlists adaptadas a cada perfil y ofrecer promociones específicas que fomenten la suscripción premium y el engagement de los usuarios.
+          p.mb-0(data-aos="zoom-in-right") De manera similar, Spotify segmenta a sus usuarios teniendo en cuenta la edad, los gustos musicales, los hábitos de escucha y el tipo de suscripción (gratuita o <em>premium</em>). Gracias a esta segmentación, la plataforma puede enviar recomendaciones personalizadas, generar <em>playlists</em> adaptadas a cada perfil y ofrecer promociones específicas que fomenten la suscripción <em>premium</em> y el <em>engagement</em> de los usuarios.
         .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema2/img_31.png', class="img-fluid") 
@@ -332,9 +332,9 @@
               figure.m-2
                 img(src="@/assets/curso/tema1/img_17.svg" )
             .col-12.col-md-8.col-lg-10.p-4
-              p.fw-bold.text-white.mb-3 Se invita a consultar el siguiente video para profundizar en el concepto de mercadeo, las variables del marketing mix y su aplicación en contextos empresariales:
+              p.fw-bold.text-white.mb-3 Se invita a consultar el siguiente video para profundizar en el concepto de mercadeo, las variables del <em>marketing mix</em> y su aplicación en contextos empresariales:
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=KiqUOstzOsk" target="_blank")
-                span Marketing mix, Las 4p del Marketing: cómo aplicarlas y ejemplos
+                span <em>Marketing</em> mix, Las 4p del <em>Marketing</em>: cómo aplicarlas y ejemplos
                 i.fas.fa-play-circle.ms-2
     
     .row.justify-content-center.align-items-center(data-aos="fade-right")
@@ -345,9 +345,9 @@
               figure.m-2
                 img(src="@/assets/curso/tema2/img_32.svg" )
             .col-12.col-md-8.col-lg-10.p-4
-              p.fw-bold.text-white.mb-3 Con el fin de ampliar la información, se sugiere revisar la unidad de mercadeo y el marketing mix (pp. 77-105), a la cual se puede acceder a través del siguiente enlace:
+              p.fw-bold.text-white.mb-3 Con el fin de ampliar la información, se sugiere revisar la unidad de mercadeo y el <em>marketing mix</em> (pp. 77-105), a la cual se puede acceder a través del siguiente enlace:
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://unimayor.edu.co/web/images/investigacionesunimayor/Sello_Editorial/2025/Libros_PDF/Gu%C3%ADa_Fundamentos_Marketing.pdf" target="_blank")
-                span Guía de fundamentos de marketing
+                span Guía de fundamentos de <em>marketing</em>
                 i.fas.fa-play-circle.ms-2
 </template>
 

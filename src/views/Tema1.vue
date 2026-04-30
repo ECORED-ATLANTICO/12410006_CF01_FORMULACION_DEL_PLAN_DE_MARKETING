@@ -11,7 +11,7 @@
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema1/img_1.png')
       .bloque-texto-t__texto.col-10.mb-0
-        p.mb-0 El plan de marketing constituye un eje estructural en la gestión estratégica de las organizaciones, al permitir organizar, analizar y orientar las acciones comerciales en función del entorno y los objetivos empresariales. Su abordaje implica comprender no solo su definición, sino también los modelos que lo estructuran y las herramientas que lo soportan, garantizando coherencia entre diagnóstico, formulación y toma de decisiones.
+        p.mb-0 El plan de <em>marketing</em> constituye un eje estructural en la gestión estratégica de las organizaciones, al permitir organizar, analizar y orientar las acciones comerciales en función del entorno y los objetivos empresariales. Su abordaje implica comprender no solo su definición, sino también los modelos que lo estructuran y las herramientas que lo soportan, garantizando coherencia entre diagnóstico, formulación y toma de decisiones.
 
     Separador
 
@@ -26,7 +26,7 @@
           figure
             img(src='@/assets/curso/tema1/img_3.png', class="img-fluid") 
         .col-12.col-lg-8
-          p.mb-3(data-aos="zoom-in-right") El plan de marketing es una herramienta de gestión estratégica que integra análisis, planificación y ejecución para orientar las acciones comerciales. Permite conectar las capacidades de la empresa con las oportunidades del entorno, guiando decisiones, uso de recursos y medición de resultados para lograr competitividad y coherencia en el mercado.
+          p.mb-3(data-aos="zoom-in-right") El plan de <em>marketing</em> es una herramienta de gestión estratégica que integra análisis, planificación y ejecución para orientar las acciones comerciales. Permite conectar las capacidades de la empresa con las oportunidades del entorno, guiando decisiones, uso de recursos y medición de resultados para lograr competitividad y coherencia en el mercado.
           .tarjeta.tarjeta--fondo-img-1.p-5.rounded-4.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
@@ -34,7 +34,7 @@
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema1/img_4.png', class="img-fluid")
-          p.mb-0(data-aos="zoom-in-right") El plan de marketing, por tanto, se configura como un mecanismo integrador que conecta el análisis del entorno con la acción estratégica, asegurando coherencia entre lo que la empresa es, lo que el mercado demanda y lo que se proyecta alcanzar.
+          p.mb-0(data-aos="zoom-in-right") El plan de <em>marketing</em>, por tanto, se configura como un mecanismo integrador que conecta el análisis del entorno con la acción estratégica, asegurando coherencia entre lo que la empresa es, lo que el mercado demanda y lo que se proyecta alcanzar.
 
       Separador
     
@@ -42,11 +42,11 @@
       .h2(data-aos="fade-right") 1.2	Modelos
     .mb-0 
 
-    p.mb-5(data-aos="zoom-in-right") Los modelos de plan de marketing permiten estructurar de manera organizada el proceso de planificación, facilitando la articulación entre diagnóstico, estrategia y ejecución. Antes de presentar la estructura, es importante reconocer que estos modelos garantizan orden metodológico y permiten controlar el desarrollo del plan en cada una de sus fases.
+    p.mb-5(data-aos="zoom-in-right") Los modelos de plan de <em>marketing</em> permiten estructurar de manera organizada el proceso de planificación, facilitando la articulación entre diagnóstico, estrategia y ejecución. Antes de presentar la estructura, es importante reconocer que estos modelos garantizan orden metodológico y permiten controlar el desarrollo del plan en cada una de sus fases.
 
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
       h5 Tabla 1.
-      |  Estructura del modelo del plan de marketing
+      |  Estructura del modelo del plan de <em>marketing</em>
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
@@ -70,8 +70,8 @@
             td.text-start Dirección estratégica definida.
           tr
             td.text-start Formulación estratégica.
-            td.text-start Diseño de estrategias de marketing.
-            td.text-start Segmentación, targeting, posicionamiento, marketing mix.
+            td.text-start Diseño de estrategias de <em>marketing</em>.
+            td.text-start Segmentación, targeting, posicionamiento, <em>marketing mix</em>.
             td.text-start Estrategias alineadas.
           tr
             td.text-start Plan de acción.
@@ -106,9 +106,9 @@
           figure
             img(src='@/assets/curso/tema1/img_7.png', class="img-fluid") 
         .col-12.col-lg-8
-          p.mb-4(data-aos="zoom-in-right") Las herramientas de análisis permiten fundamentar el plan de marketing mediante la interpretación de información relevante del entorno y de la empresa, facilitando decisiones estratégicas más precisas.
+          p.mb-4(data-aos="zoom-in-right") Las herramientas de análisis permiten fundamentar el plan de <em>marketing</em> mediante la interpretación de información relevante del entorno y de la empresa, facilitando decisiones estratégicas más precisas.
           .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
-            p.mb-0 Su aplicación integrada es fundamental para lograr un diagnóstico completo que considere tanto variables internas como externas. A continuación, se relacionan las herramientas de análisis en el plan marketing. 
+            p.mb-0 Su aplicación integrada es fundamental para lograr un diagnóstico completo que considere tanto variables internas como externas. A continuación, se relacionan las herramientas de análisis en el plan <em>marketing</em>. 
 
     br
     br
@@ -206,13 +206,13 @@
                 figure.m-2
                   img(src="@/assets/curso/tema1/img_17.svg" )
               .col-12.col-md-8.col-lg-10.p-4
-                p.fw-bold.text-white.mb-3 Se recomienda revisar los siguientes videos con el fin de profundizar en la elaboración y aplicación del plan de marketing en contextos empresariales reales:
+                p.fw-bold.text-white.mb-3 Se recomienda revisar los siguientes videos con el fin de profundizar en la elaboración y aplicación del plan de <em>marketing</em> en contextos empresariales reales:
                 a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=4LmLWpkUVYU" target="_blank")
-                  span Plan de marketing qué es y Cómo hacer uno (Plan de Mercadeo)
+                  span Plan de <em>marketing</em> qué es y Cómo hacer uno (Plan de Mercadeo)
                   i.fas.fa-play-circle.ms-2
                 br
                 a.boton.color-acento-botones.d-inline-flex.mt-2(href="https://www.youtube.com/watch?v=agXQ9ViaYD8" target="_blank")
-                  span Plan de marketing tradicional
+                  span Plan de <em>marketing</em> tradicional
                   i.fas.fa-play-circle.ms-2
 </template>
 

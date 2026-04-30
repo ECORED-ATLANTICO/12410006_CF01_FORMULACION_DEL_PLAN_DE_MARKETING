@@ -14,7 +14,7 @@
           figure
             img(src='@/assets/curso/introduccion/img_2.png', class="img-fluid") 
         .col-12.col-lg-8
-          p.mb-3(data-aos="zoom-in-right") El componente formativo Fundamentos del plan de marketing aborda el análisis de los elementos esenciales del mercadeo y su aplicación en el contexto organizacional. Integra el estudio del entorno empresarial, las variables del marketing mix y las herramientas de diagnóstico estratégico como base para comprender la situación actual de la empresa y orientar la toma de decisiones comerciales.
+          p.mb-3(data-aos="zoom-in-right") El componente formativo Fundamentos del plan de <em>marketing</em> aborda el análisis de los elementos esenciales del mercadeo y su aplicación en el contexto organizacional. Integra el estudio del entorno empresarial, las variables del <em>marketing mix</em> y las herramientas de diagnóstico estratégico como base para comprender la situación actual de la empresa y orientar la toma de decisiones comerciales.
           .tarjeta.tarjeta--fondo-img-1.p-5.rounded-4.mb-0(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
@@ -28,7 +28,7 @@
           figure.p-2
             img(src='@/assets/curso/introduccion/img_5.svg', class="img-fluid") 
         .col-12.col-lg-11
-          p.mb-0(data-aos="zoom-in-right") El desarrollo temático se abordará de manera progresiva, iniciando con los conceptos de plan de marketing, mercadeo y empresa. Posteriormente, se estudiarán las variables del marketing mix y la segmentación de mercados, para avanzar hacia la aplicación de herramientas de análisis como DOFA, PESTEL y Ansoff, integrando los resultados en la comprensión del entorno empresarial y la formulación de decisiones estratégicas en marketing. De esta manera, el componente formativo permite desarrollar competencias analíticas que fortalecen la toma de decisiones estratégicas en contextos empresariales reales.
+          p.mb-0(data-aos="zoom-in-right") El desarrollo temático se abordará de manera progresiva, iniciando con los conceptos de plan de <em>marketing</em>, mercadeo y empresa. Posteriormente, se estudiarán las variables del <em>marketing mix</em> y la segmentación de mercados, para avanzar hacia la aplicación de herramientas de análisis como DOFA, PESTEL y Ansoff, integrando los resultados en la comprensión del entorno empresarial y la formulación de decisiones estratégicas en <em>marketing</em>. De esta manera, el componente formativo permite desarrollar competencias analíticas que fortalecen la toma de decisiones estratégicas en contextos empresariales reales.
       br
       br
       br

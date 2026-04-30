@@ -242,7 +242,7 @@
               p.mb-2 #[strong D1:] bajo reconocimiento de marca en el mercado nacional.
               p.mb-2 #[strong D2:] costos operativos elevados que impactan el precio final.
               p.mb-2 #[strong D3:] limitaciones logísticas en tiempos de entrega.
-              p.mb-2 #[strong D4:] baja inversión en estrategias de marketing y posicionamiento.
+              p.mb-2 #[strong D4:] baja inversión en estrategias de <em>marketing</em> y posicionamiento.
           tr
             td.bg-table-03 Oportunidades (O)
             td.bg-table-04 Amenazas (A)
