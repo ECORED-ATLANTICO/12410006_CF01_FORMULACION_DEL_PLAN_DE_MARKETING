@@ -30,7 +30,7 @@
              .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                p.mb-0 La matriz de Ansoff es un modelo que permite analizar las opciones de crecimiento empresarial mediante la combinación de dos variables: productos y (existentes o nuevos) y mercados (existentes o nuevos). A partir de esta relación, se establecen diferentes estrategias que guían la expansión de la empresa. Su utilidad radica en que permite estructurar decisiones estratégicas de manera clara, identificando caminos de crecimiento según el contexto organizacional.
         p.mb-0(data-aos="zoom-in-right") Una empresa puede decidir vender más de sus productos actuales en el mismo mercado o desarrollar nuevos productos para atraer nuevos clientes.
-      .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema7/img_3.png', class="img-fluid") 
 
@@ -43,7 +43,7 @@
       .mb-0 
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema7/img_5.png', class="img-fluid") 
         .col-12.col-lg-8
@@ -91,7 +91,7 @@
             li.d-flex.align-items-start.mb-3
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
               span #[strong Diversificación:] consiste en introducir nuevos productos en nuevos mercados, siendo la estrategia de mayor riesgo. Ejemplo: entrada a nuevos sectores o unidades de negocio.
-        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema7/img_7.png', class="img-fluid") 
       
@@ -158,7 +158,7 @@
       p.mb-5(data-aos="zoom-in-right") A continuación, se presenta la matriz de crecimiento para de la empresa EcoMarket S.A.S
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-10.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
+        .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
           figure(data-aos="zoom-out-up")
             img(src='@/assets/curso/tema7/img_12.png', class="img-fluid")
         .col-12.col-lg-8
@@ -240,7 +240,7 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_17.svg" )
             .col-12.col-md-8.col-lg-10.p-4
@@ -253,7 +253,7 @@
       .col-12.col-lg-8
         .tarjeta.color-primario-60.p-5.rounded-3.mb-3(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
-            .col-8.col-lg-6.mb-lg-0.mb-3
+            .col-6.col-lg-6.mb-lg-0.mb-3
               figure
                 img(src="@/assets/curso/tema1/img_16.png", class="img-fluid w-100")
             .col-12.col-lg-6.mb-lg-0

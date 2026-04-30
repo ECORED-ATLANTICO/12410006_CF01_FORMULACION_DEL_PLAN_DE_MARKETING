@@ -29,7 +29,7 @@
                  img(src='@/assets/curso/tema5/img_2.png', class="img-fluid")
              .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                p.mb-0 La matriz DOFA es un instrumento de análisis que permite evaluar la posición estratégica de una empresa mediante la identificación de cuatro elementos clave: fortalezas, debilidades, oportunidades y amenazas. Su finalidad es proporcionar una visión integral de la organización, relacionando factores internos y externos para orientar la formulación de estrategias coherentes con el entorno.
-      .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema5/img_3.png', class="img-fluid") 
 
@@ -167,13 +167,13 @@
             h5 Figura 1.
             |    Estrategias DOFA
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/tema5/img_14.svg', class="img-fluid", alt="En la figura 1 se enlistan las estrategias DOFA y su alcance: FO Fortalezas + Oportunidades= Crecimiento. DO Debilidades + Oportunidades= Mejora. FA Fortalezas + Amenazas= Protección. DA Debilidades + Amenazas= Defensa.").mb-5
+            img(src='@/assets/curso/tema5/img_14.svg', class="img-fluid", alt="En la figura 1 se enlistan las estrategias DOFA y su alcance: FO Fortalezas + Oportunidades= Crecimiento. DO Debilidades + Oportunidades= Mejora. FA Fortalezas + Amenazas= Protección. DA Debilidades + Amenazas= Defensa.").mb-3
             figcaption Nota. SENA, (2026).
 
     .bg_img_24.mb-0
 
-      .row.justify-content-center.align-items-center.mb-4
-        .col-12.col-lg-10
+      .row.justify-content-center.align-items-center.mb-2
+        .col-12.col-lg-12
           .subtitulo-destacado.mb-5
             .subtitulo-destacado__icono
               img(src='@/assets/curso/tema3/img_5.png', aria-hidden='true').subtitulo-destacado__img
@@ -181,9 +181,9 @@
               h4.subtitulo-destacado__texto Aplicación del análisis DOFA
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
-            img(src='@/assets/curso/tema5/img_16.png', class="img-fluid") 
+            img(src='@/assets/curso/tema5/img_16-1.png', class="img-fluid") 
         .col-12.col-lg-8
           .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
@@ -213,7 +213,7 @@
               li.d-flex.align-items-start.mb-0
                 i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
                 span #[strong Fuentes secundarias:] informes sectoriales, datos económicos, publicaciones especializadas. 
-        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema5/img_18.png', class="img-fluid") 
 
@@ -261,7 +261,7 @@
     .bg_img_25.mb-0
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema5/img_16.png', class="img-fluid") 
         .col-12.col-lg-8
@@ -290,7 +290,7 @@
         .col-12.col-lg-10.mb-0
           .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
             .row.align-items-center.mb-0
-              .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
+              .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
                 figure.m-2
                   img(src="@/assets/curso/tema1/img_17.svg" )
               .col-12.col-md-8.col-lg-10.p-4

@@ -49,7 +49,7 @@
           img(src='@/assets/curso/tema2/img_5.svg', class="img-fluid") 
       .col-12.col-lg-11(data-aos="zoom-in-right")
         p.mb-3 Los principios del mercadeo orientan la gestión comercial, asegurando coherencia entre la empresa y el mercado. Se fundamentan en el enfoque al cliente, la generación de valor y la sostenibilidad de las relaciones comerciales.
-        p.mb-0 Antes de presentar los principios, es importante reconocer que estos permiten orientar la toma de decisiones en función del mercado.
+        p.mb-3 Antes de presentar los principios, es importante reconocer que estos permiten orientar la toma de decisiones en función del mercado.
 
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
       h5 Tabla 2.
@@ -87,7 +87,7 @@
             td.text-start Netflix, Samsung.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-3.order-2.order-lg-1
+      .col-12.col-lg-4.col-xl-3.order-2.order-lg-1
         .tarjeta.color-primario-5.p-5.rounded-4.mb-3(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
             .col-12.col-lg-12.mb-0(data-aos="zoom-in-right")
@@ -95,7 +95,7 @@
             .col-lg-6.d-lg-block.d-none(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema2/img_6.png', class="img-fluid")
-      .col-12.col-lg-9.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-8.col-xl-9.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema2/img_7.png', class="img-fluid")
 
@@ -157,7 +157,7 @@
             td.text-start Coca-Cola, Pepsi, Falabella, Jumbo.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-3.order-2.order-lg-1
+      .col-12.col-lg-4.col-xl-3.order-2.order-lg-1
         .tarjeta.color-primario-5.p-5.rounded-4.mb-3(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
             .col-12.col-lg-12.mb-0(data-aos="zoom-in-right")
@@ -165,7 +165,7 @@
             .col-lg-6.d-lg-block.d-none(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema2/img_11.png', class="img-fluid")
-      .col-12.col-lg-9.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-8.col-xl-9.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema2/img_12.png', class="img-fluid")
 

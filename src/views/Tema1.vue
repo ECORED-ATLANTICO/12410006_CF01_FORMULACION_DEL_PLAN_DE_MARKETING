@@ -173,7 +173,7 @@
             p.mb-0 #[strong Aplicación práctica:] expansión o diversificación.
           .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
             figure
-              img(src='c/img_14.png', class="img-fluid")
+              img(src='@/assets/curso/tema1/img_14.png', class="img-fluid")
 
       br
     br

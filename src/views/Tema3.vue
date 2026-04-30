@@ -177,7 +177,7 @@
     p.mb-5(data-aos="zoom-in-right") Empresas como Nike orientan su estrategia hacia la innovación y el rendimiento deportivo, alineando su <em>marketing</em> con inspiración, tecnología y experiencia del usuario.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-3.order-2.order-lg-1
+      .col-12.col-lg-4.col-xl-3.order-2.order-lg-1
         .tarjeta.color-primario-5.p-5.rounded-4.mb-3(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
             .col-12.col-lg-12.mb-0(data-aos="zoom-in-right")
@@ -185,7 +185,7 @@
             .col-lg-6.d-lg-block.d-none(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema3/img_17.png', class="img-fluid")
-      .col-12.col-lg-9.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-8.col-xl-9.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema3/img_18.png', class="img-fluid")
 

@@ -22,7 +22,7 @@
       .mb-0 
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema4/img_3.png', class="img-fluid") 
         .col-12.col-lg-8

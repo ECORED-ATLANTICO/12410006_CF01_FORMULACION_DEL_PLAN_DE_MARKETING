@@ -22,7 +22,7 @@
       .mb-0 
       
       .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema6/img_3.png', class="img-fluid") 
         .col-12.col-lg-8
@@ -64,7 +64,7 @@
             li.d-flex.align-items-start.mb-3
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
               span #[strong Adaptabilidad:] puede aplicarse a diferentes sectores y tipos de empresa.
-        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema6/img_6.png', class="img-fluid") 
       
@@ -187,7 +187,7 @@
       .col-12.col-lg-10.mb-0
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_17.svg" )
             .col-12.col-md-8.col-lg-10.p-4
