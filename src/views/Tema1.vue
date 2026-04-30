@@ -22,7 +22,7 @@
       .mb-0 
 
       .row.justify-content-center.align-items-center.mb-3
-        .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema1/img_3.png', class="img-fluid") 
         .col-12.col-lg-8
@@ -91,7 +91,7 @@
           p.mb-3(data-aos="zoom-in-right") Los modelos deben adaptarse a las características de la organización, evitando su aplicación rígida y promoviendo su uso como guía estratégica.
           .tarjeta.color-primario-5.p-4.rounded-4.mb-0(data-aos="zoom-in-right")
             p.mb-0 En el contexto real, empresas como Coca-Cola utilizan este tipo de modelos para coordinar sus estrategias globales con las particularidades de cada mercado, logrando coherencia entre planeación y ejecución.
-        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema1/img_6.png', class="img-fluid") 
 
@@ -102,7 +102,7 @@
       .mb-0 
 
       .row.justify-content-center.align-items-center.mb-3
-        .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema1/img_7.png', class="img-fluid") 
         .col-12.col-lg-8
@@ -187,7 +187,7 @@
         .col-12.col-lg-8
           .tarjeta.color-primario-60.p-5.rounded-3.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
-              .col-8.col-lg-6.mb-lg-0.mb-3
+              .col-6.col-lg-6.mb-lg-0.mb-3
                 figure
                   img(src="@/assets/curso/tema1/img_16.png", class="img-fluid w-100")
               .col-12.col-lg-6.mb-lg-0
@@ -202,7 +202,7 @@
         .col-12.col-lg-10.mb-5
           .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden
             .row.align-items-center.mb-0
-              .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
+              .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
                 figure.m-2
                   img(src="@/assets/curso/tema1/img_17.svg" )
               .col-12.col-md-8.col-lg-10.p-4

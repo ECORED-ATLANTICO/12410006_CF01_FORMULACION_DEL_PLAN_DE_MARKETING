@@ -19,7 +19,7 @@
                   img(src='@/assets/curso/tema3/img_2.png', class="img-fluid")
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                 p.mb-0 El estudio de la empresa dentro del plan de <em>marketing</em> no se limita a su descripción general, sino que implica un análisis estructurado de su evolución, su orientación estratégica, su portafolio y las fuentes de información que soportan la toma de decisiones. Este enfoque permite articular el diagnóstico interno con las oportunidades del mercado.
-        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema3/img_3.png', class="img-fluid") 
 
@@ -49,11 +49,11 @@
                 h3 Antigüedad
                 p.mb-0 #[strong Características:] intercambio de bienes mediante trueque y comercio básico. Producción artesanal local.
                 p.mb-0 #[strong Forma de organización:] familiar o individual. Ejemplo: comerciantes en Mesopotamia, Egipto y Roma.
-              .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
+              .col-12.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema3/img_6.png', class="img-fluid")
             .row.d-flex.justify-content-center.align-items-center
-              .col-6.col-lg-4.mb-3.mb-lg-0
+              .col-12.col-md-8.col-lg-4.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema3/img_7.png', class="img-fluid")
               .col-12.col-lg-8
@@ -65,11 +65,11 @@
                 h3 Revolución Industrial
                 p.mb-0 #[strong Características:] producción en masa, mecanización y expansión de mercados.
                 p.mb-0 #[strong Forma de organización:] fábricas e industrias organizadas. Ejemplo: industria textil en Inglaterra.
-              .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
+              .col-12.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema3/img_8.png', class="img-fluid")
             .row.d-flex.justify-content-center.align-items-center
-              .col-6.col-lg-4.mb-3.mb-lg-0
+              .col-12.col-md-8.col-lg-4.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema3/img_9.png', class="img-fluid")
               .col-12.col-lg-8
@@ -81,11 +81,11 @@
                 h3 Finales del siglo XX
                 p.mb-0 #[strong Características:] apertura de mercados, competencia global y uso de tecnología.
                 p.mb-0 #[strong Forma de organización:] empresas multinacionales y corporativas. Ejemplo: Microsoft, Walmart.
-              .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
+              .col-12.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema3/img_10.png', class="img-fluid")
             .row.d-flex.justify-content-center.align-items-center
-              .col-6.col-lg-4.mb-3.mb-lg-0
+              .col-12.col-md-8.col-lg-4.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema3/img_11.png', class="img-fluid")
               .col-12.col-lg-8
@@ -97,7 +97,7 @@
                 h3 Actualidad (empresa inteligente)
                 p.mb-0 #[strong Características:] enfoque en sostenibilidad, innovación, experiencia del cliente y uso de inteligencia artificial.
                 p.mb-0 #[strong Forma de organización:] organizaciones ágiles, digitales y centradas en el cliente. Ejemplo: Tesla, startups tecnológicos.
-              .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
+              .col-12.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema3/img_12.png', class="img-fluid")
 
@@ -113,7 +113,7 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_17.svg" )
             .col-12.col-md-8.col-lg-10.p-4
@@ -131,7 +131,7 @@
       .mb-0 
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema3/img_15.png', class="img-fluid") 
         .col-12.col-lg-8
@@ -193,7 +193,7 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_17.svg" )
             .col-12.col-md-8.col-lg-10.p-4
@@ -252,7 +252,7 @@
     .bg_img_16.mb-0
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema3/img_22.png', class="img-fluid") 
         .col-12.col-lg-8
@@ -301,7 +301,7 @@
       p.mb-4(data-aos="zoom-in-right") La construcción de un portafolio requiere un proceso organizado que garantice coherencia entre la oferta y las necesidades del mercado:
 
       .row.justify-content-center.align-items-start.mb-5
-        .col-8.col-lg-5.mb-3(data-aos="flip-left")
+        .col-10.col-md-8.col-lg-5.mb-3(data-aos="flip-left")
           figure
             img(src='@/assets/curso/tema3/img_25.png', class="img-fluid")
         .col-12.col-lg-7.mb-3(data-aos="zoom-in-right")
@@ -332,7 +332,7 @@
               p.mb-0 Agregar testimonios o certificaciones que generen confianza.
             div(titulo="Revisar y actualizar:")
               p.mb-0 Mantener el portafolio vigente y alineado con el mercado.
-        .col-8.col-lg-5.order-1.order-lg-2.mb-3(data-aos="flip-left")
+        .col-10.col-md-8.col-lg-5.order-1.order-lg-2.mb-3(data-aos="flip-left")
           figure
             img(src='@/assets/curso/tema3/img_27.png', class="img-fluid")
       
@@ -342,7 +342,7 @@
       .col-12.col-lg-10.mb-0
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_17.svg" )
             .col-12.col-md-8.col-lg-10.p-4

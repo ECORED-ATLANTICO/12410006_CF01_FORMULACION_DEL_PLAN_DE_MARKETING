@@ -33,7 +33,7 @@
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                 p.mb-0 Además, el mercadeo implica construir y mantener relaciones sólidas con los clientes, buscando no solo satisfacer sus expectativas, sino también fidelizarlos a largo plazo. Para ello, las empresas deben adaptarse constantemente a los cambios del entorno, las tendencias de consumo y los avances tecnológicos, asegurando así su competitividad y sostenibilidad en el mercado.
           p.mb-0(data-aos="zoom-in-right") Por ejemplo, una empresa como Netflix no solo vende entretenimiento, sino que analiza el comportamiento del usuario para ofrecer contenido personalizado, fortaleciendo la fidelización.
-        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema2/img_4.png', class="img-fluid") 
 
@@ -44,7 +44,7 @@
     .mb-0 
     
     .row.justify-content-center.align-items-center.mb-0
-      .col-2.col-lg-1.mb-3.mb-lg-0.p-4(data-aos="zoom-in-right")
+      .col-2.col-lg-1.mb-3.mb-lg-0.p-4.d-lg-block.d-none(data-aos="zoom-in-right")
         figure.p-2
           img(src='@/assets/curso/tema2/img_5.svg', class="img-fluid") 
       .col-12.col-lg-11(data-aos="zoom-in-right")
@@ -108,7 +108,7 @@
       .mb-0 
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema2/img_9.png', class="img-fluid") 
         .col-12.col-lg-8
@@ -187,7 +187,7 @@
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema2/img_14.png', class="img-fluid")
-        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema2/img_15.png', class="img-fluid") 
 
@@ -200,7 +200,7 @@
     .bg_img_9.mb-0
     
       .row.justify-content-center.align-items-center.mb-5
-        .col-10.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
+        .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
           figure(data-aos="zoom-out-up")
             img(src='@/assets/curso/tema2/img_17.png', class="img-fluid")
         .col-12.col-lg-8
@@ -320,7 +320,7 @@
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                 p.mb-0 Un caso ilustrativo es el de una cadena de supermercados que puede segmentar a sus clientes según el nivel socioeconómico, los hábitos de compra y la ubicación. De esta manera, tiene la posibilidad de ofrecer productos económicos para ciertos sectores, promociones específicas por zona y surtidos diferenciados de acuerdo con las preferencias del consumidor, lo que contribuye a mejorar la satisfacción y las ventas.
           p.mb-0(data-aos="zoom-in-right") De manera similar, Spotify segmenta a sus usuarios teniendo en cuenta la edad, los gustos musicales, los hábitos de escucha y el tipo de suscripción (gratuita o <em>premium</em>). Gracias a esta segmentación, la plataforma puede enviar recomendaciones personalizadas, generar <em>playlists</em> adaptadas a cada perfil y ofrecer promociones específicas que fomenten la suscripción <em>premium</em> y el <em>engagement</em> de los usuarios.
-        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema2/img_31.png', class="img-fluid") 
 
@@ -328,7 +328,7 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_17.svg" )
             .col-12.col-md-8.col-lg-10.p-4
@@ -341,7 +341,7 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-primario-70.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema2/img_32.svg" )
             .col-12.col-md-8.col-lg-10.p-4
