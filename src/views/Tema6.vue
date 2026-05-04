@@ -141,7 +141,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p <b>Nota.</b> SENA, (2026).
+          p Nota. SENA, (2026).
         thead
           tr
             th.col-auto.col-lg-3 Factor

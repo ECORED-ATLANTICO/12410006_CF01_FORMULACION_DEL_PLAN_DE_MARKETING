@@ -57,7 +57,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p <b>Nota.</b> Adaptada de Kotler y Armstrong, (2017).
+          p Nota. Adaptada de Kotler y Armstrong, (2017).
         thead
           tr
             th.col-auto.col-lg-3 Principio
@@ -127,7 +127,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p <b>Nota.</b> Adaptado de Kotler y Armstrong, (2017).
+          p Nota. Adaptado de Kotler y Armstrong, (2017).
         thead
           tr
             th.col-auto.col-lg-3 Variable
