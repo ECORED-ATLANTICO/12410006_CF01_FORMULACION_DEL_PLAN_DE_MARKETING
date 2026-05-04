@@ -20,7 +20,7 @@ export default {
       tema: 'Fundamentos de un plan de <em>marketing</em>.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión del plan de <em>marketing</em> mediante el análisis del entorno y las variables del mercadeo para apoyar decisiones comerciales.',
+        '<b> Objetivo:</b> evaluar la comprensión del plan de <em>marketing</em> mediante el análisis del entorno y las variables del mercadeo para apoyar decisiones comerciales.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
