@@ -150,7 +150,7 @@
       .tabla-a.mb-5(data-aos="flip-left")
         table
           caption 
-            p Nota. SENA, (2026).
+            p <b>Nota.</b> SENA, (2026).
           thead
             tr
               th.col-auto.col-lg-3 Elemento
@@ -229,7 +229,7 @@
       .tabla-a.mb-5(data-aos="flip-left")
         table
           caption 
-            p Nota. Adaptado de Armstrong & Kotler, (2017); Kotler & Keller, (2016).
+            p <b>Nota.</b> Adaptado de Armstrong & Kotler, (2017); Kotler & Keller, (2016).
           thead
             tr
               th.col-auto.col-lg-3 Tipo de Portafolio
@@ -365,7 +365,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Adaptado de Kotler y Armstrong, (2017).
+          p <b>Nota.</b> Adaptado de Kotler y Armstrong, (2017).
         thead
           tr
             th.col-auto.col-lg-3 Tipo

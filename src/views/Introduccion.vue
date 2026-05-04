@@ -24,7 +24,7 @@
                   img(src='@/assets/curso/introduccion/img_4.png', class="img-fluid")
     
       .row.justify-content-center.align-items-center.mb-0
-        .col-2.col-lg-1.mb-3.mb-lg-0.p-4(data-aos="zoom-in-right")
+        .col-2.col-lg-1.mb-3.mb-lg-0.d-lg-block.d-none(data-aos="zoom-in-right")
           figure.p-2
             img(src='@/assets/curso/introduccion/img_5.svg', class="img-fluid") 
         .col-12.col-lg-11

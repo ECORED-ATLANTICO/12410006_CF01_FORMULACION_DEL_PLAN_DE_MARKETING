@@ -50,7 +50,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Adaptado de Sainz de Vicuña, (2017).
+          p <b>Nota.</b> Adaptado de Sainz de Vicuña, (2017).
         thead
           tr
             th.col-auto.col-lg-3 Fase
