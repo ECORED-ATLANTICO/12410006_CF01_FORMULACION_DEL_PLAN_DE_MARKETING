@@ -217,7 +217,7 @@
               i.fas.fa-quote-left
               h5.mb-0 El portafolio de ventas es el conjunto de productos y servicios que una empresa ofrece a sus clientes. Tener un portafolio bien diseñado es fundamental para diversificar las fuentes de ingreso y satisfacer las variadas necesidades del mercado. 
               i.fas.fa-quote-right
-              span.d-block.text-end Armstrong & Kotler, 2017
+              span.d-block.text-end Armstrong & Kotler, (2017)
           p.mb-4(data-aos="zoom-in-right") El portafolio de productos y servicios constituye un elemento fundamental en la gestión comercial de una empresa, ya que permite organizar, estructurar y presentar su oferta de valor de manera clara y estratégica. A través del portafolio, la organización no solo muestra lo que ofrece, sino que también comunica sus ventajas competitivas y responde a las necesidades del mercado. Algunas de las características clave de un buen portafolio de ventas se enuncian en la siguiente tabla:
         .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure

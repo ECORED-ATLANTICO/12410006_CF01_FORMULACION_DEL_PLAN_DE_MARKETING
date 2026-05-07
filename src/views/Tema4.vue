@@ -103,7 +103,7 @@
       
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
         h5 Tabla 8.
-        |  Clasificación de herramientas de análisis de mercadeo
+        |  Uso de herramientas en el proceso de <em>marketing</em>
       .tabla-a.mb-5(data-aos="flip-left")
         table
           caption 

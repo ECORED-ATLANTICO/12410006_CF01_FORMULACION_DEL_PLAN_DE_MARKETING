@@ -230,9 +230,8 @@
       .mb-0 
 
       p.mb-3(data-aos="zoom-in-right") El mercadeo se caracteriza por ser dinámico, estratégico y orientado al cliente, adaptándose constantemente a los cambios del entorno. Entre sus principales características se destacan: 
-      p.mb-5(data-aos="zoom-in-right") Estas características permiten a las organizaciones responder de manera efectiva a las demandas del mercado.
-
-      .row.justify-content-center.align-items-center.mb-5
+     
+      .row.justify-content-center.align-items-center.mb-3
         .col-12.col-lg-4.mb-3.mb-lg-0
           .tarjeta.color-primario-5.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
             p.mb-0(data-aos="zoom-in-right") Enfoque en el cliente.
@@ -246,6 +245,9 @@
             p.mb-0(data-aos="zoom-in-right") Adaptabilidad al entorno.
           .tarjeta.color-primario-5.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
             p.mb-0(data-aos="zoom-in-right") Uso de información para decisiones.
+
+      p.mb-3(data-aos="zoom-in-right") Estas características permiten a las organizaciones responder de manera efectiva a las demandas del mercado.
+
 
       Separador
 
@@ -290,7 +292,7 @@
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5.mb-5 Servicio al cliente
             p.mb-4 #[strong Función:] gestionar la relación con el cliente antes, durante y después de la compra.
-            p.mb-0 #[strong Ejemplos:] atención en <em>call center</em>, soporte por chat, manejo de quejas y programas de fidelización.
+            p.mb-0 #[strong Ejemplos:] atención en <em>call center</em>, soporte por <em>chat</em>, manejo de quejas y programas de fidelización.
           .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/tema2/img_27.png', class="img-fluid")

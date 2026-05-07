@@ -30,7 +30,7 @@
           .tarjeta.tarjeta--fondo-img-1.p-5.rounded-4.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-                p.mb-0 En el contexto empresarial, por ejemplo, una empresa del sector retail que proyecta expansión debe estructurar su plan considerando variables como comportamiento del consumidor, canales de distribución, competencia y propuesta de valor, evitando decisiones empíricas y fortaleciendo su posicionamiento en el mercado.
+                p.mb-0 En el contexto empresarial, por ejemplo, una empresa del sector <em>retail</em> que proyecta expansión debe estructurar su plan considerando variables como comportamiento del consumidor, canales de distribución, competencia y propuesta de valor, evitando decisiones empíricas y fortaleciendo su posicionamiento en el mercado.
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema1/img_4.png', class="img-fluid")
@@ -66,12 +66,12 @@
           tr
             td.text-start Definición de objetivos.
             td.text-start Establecimiento de metas claras.
-            td.text-start Objetivos SMART, indicadores.
+            td.text-start Objetivos <em>SMART</em>, indicadores.
             td.text-start Dirección estratégica definida.
           tr
             td.text-start Formulación estratégica.
             td.text-start Diseño de estrategias de <em>marketing</em>.
-            td.text-start Segmentación, targeting, posicionamiento, <em>marketing mix</em>.
+            td.text-start Segmentación, <em>targeting</em>, posicionamiento, <em>marketing mix</em>.
             td.text-start Estrategias alineadas.
           tr
             td.text-start Plan de acción.

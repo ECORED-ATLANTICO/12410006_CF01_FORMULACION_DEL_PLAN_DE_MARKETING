@@ -272,7 +272,7 @@
               span #[strong F1O1:] posicionar el portafolio ecológico aprovechando el crecimiento del consumo sostenible.
             li.d-flex.align-items-start.mb-3
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
-              span #[strong F2O2:] fortalecer el canal e-commerce para ampliar cobertura geográfica.
+              span #[strong F2O2:] fortalecer el canal <em>e-commerce</em> para ampliar cobertura geográfica.
             li.d-flex.align-items-start.mb-3
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
               span #[strong D1O4:] implementar campañas digitales para aumentar reconocimiento de marca.
