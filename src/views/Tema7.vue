@@ -260,7 +260,7 @@
               h2.mb-5.text-white Pódcast
               TarjetaAudio.color-acento-botones.mb-0.p-4(
                 texto="<I>Herramientas de análisis estratégico</I>"
-                :audio="require('@/assets/curso/tema1/img_16.png')"
+                :audio="require('@/assets/curso/podcast/Podcast_2_CF01.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = True")
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
 </template>
