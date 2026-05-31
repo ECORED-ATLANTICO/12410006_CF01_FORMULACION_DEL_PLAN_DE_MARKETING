@@ -167,7 +167,7 @@
             h5 Figura 1.
             |    Estrategias DOFA
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/tema5/img_14.svg', class="img-fluid", alt="En la figura 1 se enlistan las estrategias DOFA y su alcance: FO Fortalezas + Oportunidades= Crecimiento. DO Debilidades + Oportunidades= Mejora. FA Fortalezas + Amenazas= Protección. DA Debilidades + Amenazas= Defensa.").mb-3
+            img(src='@/assets/curso/tema5/img_14.svg', class="img-fluid", alt="La figura describe una matriz DOFA dividida en cuatro cuadrantes: FO (fortalezas más oportunidades, orientadas al crecimiento), FA (fortalezas más amenazas, enfocadas en la protección), DO (debilidades más oportunidades, dirigidas a la mejora) y DA (debilidades más amenazas, orientadas a la defensa).").mb-3
             figcaption Nota. SENA, (2026).
 
     .bg_img_24.mb-0
