@@ -28,284 +28,660 @@ export default {
         {
           id: 1,
           texto:
-            'El plan de <em>marketing</em> orienta decisiones estratégicas.',
+            '¿Cuál es la función principal del plan de <em>marketing</em> dentro de una organización?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Organizar, analizar y orientar las acciones comerciales de la empresa.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Sustituir la gestión financiera.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Controlar exclusivamente la producción.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Administrar únicamente los recursos humanos.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! El plan de <em>marketing</em> permite organizar y orientar las acciones comerciales en función de los objetivos empresariales.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con el plan de <em>marketing</em> y su finalidad estratégica.',
         },
         {
           id: 2,
-          texto: 'El <em>marketing</em> se limita a la venta.',
+          texto:
+            '¿Qué elemento permite conectar las capacidades de la empresa con las oportunidades del entorno?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto: 'El manual de funciones.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'El plan de <em>marketing</em>.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'El reglamento interno.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'El organigrama.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! El plan de <em>marketing</em> integra análisis y planificación para aprovechar las oportunidades del entorno.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los conceptos relacionados con el plan de <em>marketing</em>.',
         },
         {
           id: 3,
-          texto: 'DOFA integra análisis interno y externo.',
+          texto:
+            '¿Cuál es una de las fases del modelo de plan de <em>marketing</em>?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Gestión documental.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Archivo empresarial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Análisis situacional.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Liquidación financiera.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! El análisis situacional permite evaluar el entorno interno y externo de la organización.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente la estructura del modelo del plan de <em>marketing</em>.',
         },
         {
           id: 4,
-          texto: 'PESTEL evalúa factores macroambientales.',
+          texto:
+            '¿Cuál de las siguientes herramientas analiza factores políticos, económicos, sociales, tecnológicos, ecológicos y legales?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'DOFA.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Ansoff.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: '<em>Marketing Mix</em>.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'PESTEL.',
+              esCorrecta: true,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! El análisis PESTEL permite estudiar los factores del macroentorno que afectan a la organización.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con las herramientas de análisis de mercadeo.',
         },
         {
           id: 5,
-          texto: 'El entorno no afecta la empresa.',
+          texto: '¿Cuál es el propósito principal del mercadeo?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto:
+                'Generar valor mediante la satisfacción de necesidades y deseos del mercado.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Incrementar costos operativos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Controlar únicamente las ventas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Sustituir la investigación de mercados.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! El mercadeo busca comprender las necesidades del mercado para generar valor a través de productos y servicios.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los conceptos fundamentales del mercadeo.',
         },
         {
           id: 6,
-          texto: 'La segmentación permite identificar mercados objetivo.',
+          texto: '¿Qué permite identificar el análisis DOFA?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Fortalezas, debilidades, oportunidades y amenazas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Estados financieros.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Procesos de producción.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Estructura salarial.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La matriz DOFA analiza factores internos y externos que influyen en la organización.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con la matriz DOFA.',
         },
         {
           id: 7,
-          texto: 'El análisis situacional es opcional.',
+          texto:
+            '¿Cuál de los siguientes elementos hace parte del <em>marketing mix</em>?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto: 'Nómina.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Producto.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Organigrama.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Inventario.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! El producto es uno de los componentes fundamentales del <em>marketing mix</em>.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con el <em>marketing mix</em>.',
         },
         {
           id: 8,
-          texto: 'La empresa debe analizar su contexto.',
+          texto: '¿Cuál es la finalidad de la segmentación de mercados?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Reducir la producción.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Dividir el mercado en grupos con características similares.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Eliminar la competencia.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Incrementar costos administrativos.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La segmentación permite identificar grupos de clientes con necesidades y características similares.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con la segmentación de mercados.',
         },
         {
           id: 9,
-          texto: 'Ansoff define estrategias de crecimiento.',
+          texto: '¿Qué representa el precio dentro del <em>marketing mix</em>?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'El valor que el cliente paga por un producto o servicio.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'El diseño del producto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'La ubicación del negocio.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'La estructura organizacional.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! El precio corresponde al valor monetario asignado a un producto o servicio.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con el <em>marketing mix</em>.',
         },
         {
           id: 10,
-          texto: 'El <em>marketing</em> puede ser innato e improvisado.',
+          texto: '¿Qué analiza principalmente la matriz de Ansoff?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto: 'Estados financieros.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Estructura organizacional.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Procesos logísticos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Estrategias de crecimiento empresarial.',
+              esCorrecta: true,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La matriz de Ansoff permite identificar alternativas de crecimiento empresarial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con la matriz de Ansoff.',
         },
         {
           id: 11,
-          texto: 'DOFA identifica debilidades.',
+          texto:
+            '¿Qué elemento del <em>marketing mix</em> se relaciona con la distribución de productos?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Producto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Promoción.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Plaza.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Precio.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La plaza hace referencia a los canales y mecanismos de distribución.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con el <em>marketing mix</em>.',
         },
         {
           id: 12,
-          texto: 'El análisis interno no es relevante.',
+          texto: '¿Qué busca una estrategia de promoción?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto: 'Reducir la comunicación.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Informar y persuadir al mercado objetivo.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Eliminar canales de distribución.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Disminuir la visibilidad de la marca.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La promoción busca comunicar y persuadir al mercado para favorecer la decisión de compra.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con la promoción comercial.',
         },
         {
           id: 13,
-          texto: 'El plan tiene estructura definida.',
+          texto:
+            '¿Cuál es una característica de una empresa orientada al mercado?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Ignora las necesidades del cliente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Produce sin analizar el entorno.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Se enfoca en comprender y satisfacer al consumidor.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Elimina la investigación comercial.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! Las organizaciones orientadas al mercado centran sus acciones en las necesidades del consumidor.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con orientación al mercado.',
         },
         {
           id: 14,
-          texto: 'Mercadeo implica generación de valor.',
+          texto: '¿Cuál es uno de los beneficios del análisis PESTEL?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Analizar únicamente factores internos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Elaborar presupuestos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Evaluar factores externos que afectan a la organización.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Gestionar inventarios.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! El análisis PESTEL permite evaluar variables externas del entorno empresarial.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con PESTEL.',
         },
         {
           id: 15,
-          texto: 'El <em>marketing mix</em> incluye variables controlables',
+          texto:
+            '¿Qué componente del <em>marketing mix</em> se relaciona con la comunicación comercial?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Promoción.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Plaza.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Inventario.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Producción.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La promoción reúne las acciones de comunicación dirigidas al mercado objetivo.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con el <em>marketing mix</em>.',
         },
         {
           id: 16,
-          texto: 'En el plan de <em>marketing</em> el cliente no es relevante.',
+          texto:
+            '¿Qué estrategia de Ansoff consiste en vender nuevos productos en nuevos mercados?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto: 'Penetración de mercado.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Desarrollo de mercado.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Diversificación.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Fidelización.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La diversificación implica nuevos productos dirigidos a nuevos mercados.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con la matriz de Ansoff.',
         },
         {
           id: 17,
-          texto: 'El análisis estratégico apoya decisiones.',
+          texto:
+            '¿Cuál es el objetivo del análisis situacional dentro del plan de <em>marketing</em>?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Conocer las condiciones internas y externas de la organización.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Elaborar contratos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Gestionar nómina.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Administrar inventarios.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! El análisis situacional permite comprender la realidad de la organización y su entorno.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con el análisis situacional.',
         },
         {
           id: 18,
-          texto: 'PESTEL incluye factores legales.',
+          texto: '¿Qué permite la investigación de mercados?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Reducir la comunicación empresarial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Eliminar la competencia.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Sustituir el plan de <em>marketing</em>.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Obtener información para la toma de decisiones comerciales.',
+              esCorrecta: true,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La investigación de mercados aporta información relevante para la toma de decisiones.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con investigación de mercados.',
         },
         {
           id: 19,
           texto:
-            'El <em>marketing</em> no requiere análisis, requiere intuición.',
+            '¿Cuál es la importancia de establecer objetivos de <em>marketing</em>?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto: 'Orientar las acciones y medir resultados.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Eliminar procesos administrativos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Sustituir estrategias.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Reducir la participación del mercado.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! Los objetivos permiten orientar la gestión comercial y evaluar el desempeño.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con objetivos de <em>marketing</em>.',
         },
         {
           id: 20,
-          texto: 'El diagnóstico orienta estrategias.',
+          texto:
+            '¿Por qué es importante el plan de <em>marketing</em> para una organización?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Porque elimina la competencia.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Porque reemplaza la gestión financiera.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Porque guía las estrategias para alcanzar los objetivos comerciales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Porque sustituye la administración empresarial.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! El plan de <em>marketing</em> orienta las decisiones y estrategias necesarias para alcanzar los objetivos organizacionales.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con el plan de <em>marketing</em>.',
         },
       ],
       mensaje_final_aprobado:
