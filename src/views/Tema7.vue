@@ -28,7 +28,7 @@
                figure
                  img(src='@/assets/curso/tema7/img_2.png', class="img-fluid")
              .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-               p.mb-0 La matriz de Ansoff es un modelo que permite analizar las opciones de crecimiento empresarial mediante la combinación de dos variables: productos y (existentes o nuevos) y mercados (existentes o nuevos). A partir de esta relación, se establecen diferentes estrategias que guían la expansión de la empresa. Su utilidad radica en que permite estructurar decisiones estratégicas de manera clara, identificando caminos de crecimiento según el contexto organizacional.
+               p.mb-0 La matriz de Ansoff es un modelo que permite analizar las opciones de crecimiento empresarial mediante la combinación de dos variables: productos (existentes o nuevos) y mercados (existentes o nuevos). A partir de esta relación, se establecen diferentes estrategias que guían la expansión de la empresa. Su utilidad radica en que permite estructurar decisiones estratégicas de manera clara, identificando caminos de crecimiento según el contexto organizacional.
         p.mb-0(data-aos="zoom-in-right") Una empresa puede decidir vender más de sus productos actuales en el mismo mercado o desarrollar nuevos productos para atraer nuevos clientes.
       .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
@@ -53,7 +53,7 @@
               span #[strong Enfoque en crecimiento:] orienta decisiones relacionadas con expansión empresarial.
             li.d-flex.align-items-start.mb-3
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
-              span #[strong Estructura simple:] se basa en la relación producto mercado.
+              span #[strong Estructura simple:] se basa en la relación producto - mercado.
             li.d-flex.align-items-start.mb-3
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
               span #[strong Clasificación estratégica:] organiza las opciones de crecimiento en categorías claras.
@@ -65,7 +65,7 @@
               span #[strong Aplicabilidad general:] puede utilizarse en distintos sectores económicos.
       
       .tarjeta.color-primario-10.p-4.rounded-4.mb-5(data-aos="zoom-in-right")
-        p.mb-0 Una empresa puede optar por estrategias de bajo riesgo como aumentar ventas en su mercado actual, o asumir mayor riesgo al ingresar a nuevos mercados.
+        p.mb-0 Una empresa puede optar por estrategias de bajo riesgo, como aumentar ventas en su mercado actual, o asumir mayor riesgo al ingresar a nuevos mercados.
 
       Separador
 
@@ -155,7 +155,7 @@
 
       p.mb-4(data-aos="zoom-in-right") Se analizan productos actuales y potenciales, junto con mercados actuales y nuevos, para definir estrategias de crecimiento según el nivel de riesgo.
 
-      p.mb-5(data-aos="zoom-in-right") A continuación, se presenta la matriz de crecimiento para de la empresa EcoMarket S.A.S
+      p.mb-5(data-aos="zoom-in-right") A continuación, se presenta la matriz de crecimiento para la empresa EcoMarket S.A.S
 
       .row.justify-content-center.align-items-center.mb-5
         .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
@@ -259,7 +259,7 @@
             .col-12.col-lg-6.mb-lg-0
               h2.mb-5.text-white Pódcast
               TarjetaAudio.color-acento-botones.mb-0.p-4(
-                texto="<I>Herramientas de análisis estratégico</I>"
+                texto="<I>Herramientas de análisis estratégico: decisiones inteligentes para empresas y emprendedores</I>"
                 :audio="require('@/assets/curso/podcast/Podcast_2_CF01.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = True")
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")

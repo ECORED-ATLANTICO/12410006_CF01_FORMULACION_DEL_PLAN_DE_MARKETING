@@ -55,7 +55,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El plan de <em>marketing</em> permite organizar y orientar las acciones comerciales en función de los objetivos empresariales.',
+            ' El plan de <em>marketing</em> permite organizar y orientar las acciones comerciales en función de los objetivos empresariales.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el plan de <em>marketing</em> y su finalidad estratégica.',
         },
@@ -88,7 +88,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El plan de <em>marketing</em> integra análisis y planificación para aprovechar las oportunidades del entorno.',
+            ' El plan de <em>marketing</em> integra análisis y planificación para aprovechar las oportunidades del entorno.',
           mensaje_incorrecto:
             'Revise nuevamente los conceptos relacionados con el plan de <em>marketing</em>.',
         },
@@ -121,7 +121,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El análisis situacional permite evaluar el entorno interno y externo de la organización.',
+            ' El análisis situacional permite evaluar el entorno interno y externo de la organización.',
           mensaje_incorrecto:
             'Revise nuevamente la estructura del modelo del plan de <em>marketing</em>.',
         },
@@ -154,7 +154,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El análisis PESTEL permite estudiar los factores del macroentorno que afectan a la organización.',
+            ' El análisis PESTEL permite estudiar los factores del macroentorno que afectan a la organización.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con las herramientas de análisis de mercadeo.',
         },
@@ -187,7 +187,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El mercadeo busca comprender las necesidades del mercado para generar valor a través de productos y servicios.',
+            ' El mercadeo busca comprender las necesidades del mercado para generar valor a través de productos y servicios.',
           mensaje_incorrecto:
             'Revise nuevamente los conceptos fundamentales del mercadeo.',
         },
@@ -219,7 +219,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La matriz DOFA analiza factores internos y externos que influyen en la organización.',
+            ' La matriz DOFA analiza factores internos y externos que influyen en la organización.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con la matriz DOFA.',
         },
@@ -252,7 +252,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El producto es uno de los componentes fundamentales del <em>marketing mix</em>.',
+            ' El producto es uno de los componentes fundamentales del <em>marketing mix</em>.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el <em>marketing mix</em>.',
         },
@@ -285,7 +285,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La segmentación permite identificar grupos de clientes con necesidades y características similares.',
+            ' La segmentación permite identificar grupos de clientes con necesidades y características similares.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con la segmentación de mercados.',
         },
@@ -317,7 +317,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El precio corresponde al valor monetario asignado a un producto o servicio.',
+            ' El precio corresponde al valor monetario asignado a un producto o servicio.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el <em>marketing mix</em>.',
         },
@@ -349,7 +349,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La matriz de Ansoff permite identificar alternativas de crecimiento empresarial.',
+            ' La matriz de Ansoff permite identificar alternativas de crecimiento empresarial.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con la matriz de Ansoff.',
         },
@@ -382,7 +382,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La plaza hace referencia a los canales y mecanismos de distribución.',
+            ' La plaza hace referencia a los canales y mecanismos de distribución.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el <em>marketing mix</em>.',
         },
@@ -414,7 +414,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La promoción busca comunicar y persuadir al mercado para favorecer la decisión de compra.',
+            ' La promoción busca comunicar y persuadir al mercado para favorecer la decisión de compra.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con la promoción comercial.',
         },
@@ -447,7 +447,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Las organizaciones orientadas al mercado centran sus acciones en las necesidades del consumidor.',
+            ' Las organizaciones orientadas al mercado centran sus acciones en las necesidades del consumidor.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con orientación al mercado.',
         },
@@ -479,7 +479,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El análisis PESTEL permite evaluar variables externas del entorno empresarial.',
+            ' El análisis PESTEL permite evaluar variables externas del entorno empresarial.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con PESTEL.',
         },
@@ -512,7 +512,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La promoción reúne las acciones de comunicación dirigidas al mercado objetivo.',
+            ' La promoción reúne las acciones de comunicación dirigidas al mercado objetivo.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el <em>marketing mix</em>.',
         },
@@ -545,7 +545,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La diversificación implica nuevos productos dirigidos a nuevos mercados.',
+            ' La diversificación implica nuevos productos dirigidos a nuevos mercados.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con la matriz de Ansoff.',
         },
@@ -579,7 +579,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El análisis situacional permite comprender la realidad de la organización y su entorno.',
+            ' El análisis situacional permite comprender la realidad de la organización y su entorno.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el análisis situacional.',
         },
@@ -612,7 +612,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La investigación de mercados aporta información relevante para la toma de decisiones.',
+            ' La investigación de mercados aporta información relevante para la toma de decisiones.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con investigación de mercados.',
         },
@@ -645,7 +645,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los objetivos permiten orientar la gestión comercial y evaluar el desempeño.',
+            ' Los objetivos permiten orientar la gestión comercial y evaluar el desempeño.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con objetivos de <em>marketing</em>.',
         },
@@ -679,7 +679,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El plan de <em>marketing</em> orienta las decisiones y estrategias necesarias para alcanzar los objetivos organizacionales.',
+            ' El plan de <em>marketing</em> orienta las decisiones y estrategias necesarias para alcanzar los objetivos organizacionales.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el plan de <em>marketing</em>.',
         },

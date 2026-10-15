@@ -129,7 +129,7 @@
               span #[strong Priorización:] determinar los factores más relevantes según su nivel de influencia.
             li.d-flex.align-items-start.mb-0
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
-              span #[strong Interpretación estratégica:] estratégica: relacionar los resultados con decisiones empresariales.
+              span #[strong Interpretación estratégica:] relacionar los resultados con decisiones empresariales.
       .col-12.col-lg-4.mb-3.mb-lg-0
         .tarjeta.color-primario-10.p-4.rounded-4.mb-5.h-100(data-aos="zoom-in-right")
           h5.mb-3 Aplicación
@@ -149,31 +149,31 @@
             th.col-auto.col-lg-auto Impacto
         tbody
           tr
-            td.text-start Político.
-            td.text-start Existencia de políticas públicas que promueven la sostenibilidad y economía verde.
-            td.text-start Positivo.
+            td.text-start Político
+            td.text-start Existencia de políticas públicas que promueven la sostenibilidad y la economía verde.
+            td.text-start Positivo
           tr
-            td.text-start Económico.
+            td.text-start Económico
             td.text-start Inflación y reducción del poder adquisitivo afectan la disposición de compra.
-            td.text-start Negativo.
+            td.text-start Negativo
           tr
-            td.text-start Social.
+            td.text-start Social
             td.text-start Consumidores más conscientes del impacto ambiental de sus compras.
-            td.text-start Positivo.
+            td.text-start Positivo
           tr
-            td.text-start Tecnológico.
+            td.text-start Tecnológico
             td.text-start Crecimiento del comercio electrónico y herramientas digitales accesibles.
-            td.text-start Positivo.
+            td.text-start Positivo
           tr
-            td.text-start Ecológico.
+            td.text-start Ecológico
             td.text-start Regulaciones que favorecen productos sostenibles y responsables.
-            td.text-start Positivo.
+            td.text-start Positivo
           tr
-            td.text-start Legal.
+            td.text-start Legal
             td.text-start Normativas sobre certificación, etiquetado y calidad de productos ecológicos
-            td.text-start Medio.
+            td.text-start Medio
 
-    p.mb-5(data-aos="zoom-in-right") Interpretación técnica de la Tabla 10. El entorno resulta favorable para EcoMarket S.A.S., impulsado por factores sociales, tecnológicos y ecológicos que fortalecen la demanda de productos sostenibles. Sin embargo, las condiciones económicas representan un riesgo, ya que pueden limitar la capacidad de compra del consumidor y afectar la competitividad.
+    p.mb-5(data-aos="zoom-in-right") Interpretación técnica de la tabla 10. El entorno resulta favorable para EcoMarket S.A.S., impulsado por factores sociales, tecnológicos y ecológicos que fortalecen la demanda de productos sostenibles. Sin embargo, las condiciones económicas representan un riesgo, ya que pueden limitar la capacidad de compra del consumidor y afectar la competitividad.
 
     .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
       .row.justify-content-center.align-items-center.mb-0

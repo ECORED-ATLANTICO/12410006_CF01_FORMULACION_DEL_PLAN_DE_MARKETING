@@ -59,30 +59,30 @@
             th.col-auto.col-lg-3 Resultado esperado
         tbody
           tr
-            td.text-start Análisis situacional.
-            td.text-start Evaluación del entorno interno y externo.
-            td.text-start DOFA, PESTEL, análisis de mercado.
-            td.text-start Diagnóstico estratégico.
+            td.text-start Análisis situacional
+            td.text-start Evaluación del entorno interno y externo
+            td.text-start DOFA, PESTEL, análisis de mercado
+            td.text-start Diagnóstico estratégico
           tr
-            td.text-start Definición de objetivos.
-            td.text-start Establecimiento de metas claras.
-            td.text-start Objetivos <em>SMART</em>, indicadores.
-            td.text-start Dirección estratégica definida.
+            td.text-start Definición de objetivos
+            td.text-start Establecimiento de metas claras
+            td.text-start Objetivos <em>SMART</em>, indicadores
+            td.text-start Dirección estratégica definida
           tr
-            td.text-start Formulación estratégica.
-            td.text-start Diseño de estrategias de <em>marketing</em>.
-            td.text-start Segmentación, <em>targeting</em>, posicionamiento, <em>marketing mix</em>.
-            td.text-start Estrategias alineadas.
+            td.text-start Formulación estratégica
+            td.text-start Diseño de estrategias de <em>marketing</em>
+            td.text-start Segmentación, <em>targeting</em>, posicionamiento, <em>marketing mix</em>
+            td.text-start Estrategias alineadas
           tr
-            td.text-start Plan de acción.
-            td.text-start Definición de actividades y recursos.
-            td.text-start Cronograma, presupuesto, responsables.
-            td.text-start Ejecución organizada.
+            td.text-start Plan de acción
+            td.text-start Definición de actividades y recursos
+            td.text-start Cronograma, presupuesto, responsables
+            td.text-start Ejecución organizada
           tr
-            td.text-start Control y seguimiento.
-            td.text-start Evaluación de resultados.
-            td.text-start KPI, métricas, informes.
-            td.text-start Toma de decisiones correctivas.
+            td.text-start Control y seguimiento
+            td.text-start Evaluación de resultados
+            td.text-start KPI, métricas, informes
+            td.text-start Toma de decisiones correctivas
 
     .bg_img_3.mb-0
 
@@ -108,7 +108,7 @@
         .col-12.col-lg-8
           p.mb-4(data-aos="zoom-in-right") Las herramientas de análisis permiten fundamentar el plan de <em>marketing</em> mediante la interpretación de información relevante del entorno y de la empresa, facilitando decisiones estratégicas más precisas.
           .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
-            p.mb-0 Su aplicación integrada es fundamental para lograr un diagnóstico completo que considere tanto variables internas como externas. A continuación, se relacionan las herramientas de análisis en el plan <em>marketing</em>. 
+            p.mb-0 Su aplicación integrada es fundamental para lograr un diagnóstico completo que considere tanto variables internas como externas. A continuación, se relacionan las herramientas de análisis en el plan de <em>marketing</em>. 
 
     br
     br
@@ -193,7 +193,7 @@
               .col-12.col-lg-6.mb-lg-0
                 h2.mb-5.text-white Pódcast
                 TarjetaAudio.color-acento-botones.mb-0.p-4(
-                  texto="<I>Fundamentos del plan de marketing</I>"
+                  texto="<I>Fundamentos del plan de marketing: estrategia para competir y crecer en el mercado</I>"
                   :audio="require('@/assets/curso/podcast/Podcast_1_CF01.mp3')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = True")
                   .indicador--click(v-if="mostrarIndicadorTarjetaAudio")

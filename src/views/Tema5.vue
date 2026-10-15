@@ -54,7 +54,7 @@
           .tarjeta.color-primario-5.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
             p.mb-0(data-aos="zoom-in-right") Es adaptable a diferentes sectores y tipos de empresa.
           .tarjeta.color-primario-5.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
-            p.mb-0(data-aos="zoom-in-right") Contribuye a la formulación de estrategias orientadas al crecimiento y sostenibilidad.
+            p.mb-0(data-aos="zoom-in-right") Contribuye a la formulación de estrategias orientadas al crecimiento y la sostenibilidad.
         .col-12.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema5/img_5.png', class="img-fluid")

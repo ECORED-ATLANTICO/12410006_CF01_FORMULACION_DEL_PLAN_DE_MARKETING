@@ -274,7 +274,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/63110196_CF1_DU.pdf',
+        download: 'downloads/63110196_CF1_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -404,38 +404,37 @@ export default {
   referencias: [
     {
       referencia:
-        'Kotler, P., & Armstrong, G. (2017). <em>Fundamentos de marketing</em>. Pearson.',
+        'Kotler, P., & Armstrong, G. (2017). Fundamentos de <em>marketing</em>. Pearson.',
       link:
         'https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf',
     },
     {
       referencia:
-        'Meza Paúl, M. A. (2017). <em>Análisis DOFA para plan estratégico de ventas</em>. Universidad EAFIT.',
+        'Meza Paúl, M. A. (2017). Análisis DOFA para plan estratégico de ventas. Universidad EAFIT.',
       link:
         'https://repository.eafit.edu.co/server/api/core/bitstreams/beb79e0e-7e93-4875-ae77-1eec9828e4df/content',
     },
     {
       referencia:
-        'Sainz de Vicuña, J. M. (2017). <em>Plan de marketing: diseño, implementación y control</em>. ESIC Editorial.',
+        'Sainz de Vicuña, J. M. (2017). Plan de <em>marketing</em>: diseño, implementación y control. ESIC Editorial.',
       link:
         'https://gc.scalahed.com/recursos/files/r161r/w24257w/LibroPlandeMarketing-1-92.pdf',
     },
     {
       referencia:
-        'Johnson, G., Scholes, K., & Whittington, R. (2014). <em>Dirección estratégica</em> (7.ª ed.). Pearson Educación.',
+        'Johnson, G., Scholes, K., & Whittington, R. (2014). Dirección estratégica (7.ª ed.). Pearson Educación.',
       link: '',
     },
     {
       referencia:
-        'Sánchez Vargas, L. A. (2019). <em>Fundamentos para la elaboración de planes estratégicos</em>. UNAD.',
+        'Sánchez Vargas, L. A. (2019). Fundamentos para la elaboración de planes estratégicos. UNAD.',
       link:
         'https://libros.unad.edu.co/index.php/selloeditorial/catalog/download/118/105/469',
     },
     {
       referencia:
-        'Universidad Santiago de Cali. (2025). <em>Guía fundamentos de marketing</em>.',
-      link:
-        'https://unimayor.edu.co/web/images/investigacionesunimayor/Sello_Editorial/2025/Libros_PDF/Gu%C3%ADa_Fundamentos_Marketing.pdf',
+        'Universidad Santiago de Cali. (2025). Guía fundamentos de <em>marketing</em>.',
+      link: '',
     },
   ],
   creditos: [
@@ -445,7 +444,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional G06. Responsable Ecosistema de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -465,7 +464,7 @@ export default {
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -500,12 +499,7 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
@@ -515,7 +509,7 @@ export default {
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos digitales',
+          cargo: 'Validadora y vinculadora de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],

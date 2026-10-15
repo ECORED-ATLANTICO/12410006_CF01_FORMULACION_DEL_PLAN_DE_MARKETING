@@ -96,7 +96,7 @@
               .col-12.col-lg-8.order-2.order-lg-1
                 h3 Actualidad (empresa inteligente)
                 p.mb-0 #[strong Características:] enfoque en sostenibilidad, innovación, experiencia del cliente y uso de inteligencia artificial.
-                p.mb-0 #[strong Forma de organización:] organizaciones ágiles, digitales y centradas en el cliente. Ejemplo: Tesla, startups tecnológicos.
+                p.mb-0 #[strong Forma de organización:] organizaciones ágiles, digitales y centradas en el cliente. Ejemplo: Tesla, startups tecnológicas.
               .col-12.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema3/img_12.png', class="img-fluid")
@@ -158,19 +158,19 @@
               th.col-auto.col-lg-auto Aplicación
           tbody
             tr
-              td.text-start Misión.
+              td.text-start Misión
               td.text-start Define la razón de ser de la empresa, su actividad principal, el valor que ofrece y el público al que se dirige.
               td.text-start Establece el propósito del negocio y orienta las decisiones operativas y estratégicas.
             tr
-              td.text-start Visión.
+              td.text-start Visión
               td.text-start Describe la proyección futura de la empresa, indicando hacia dónde quiere llegar en el largo plazo.
               td.text-start Guía el crecimiento organizacional y el posicionamiento en el mercado.
             tr
-              td.text-start Objetivos.
+              td.text-start Objetivos
               td.text-start Representan los resultados que la empresa busca alcanzar en un tiempo determinado, de forma medible y concreta.
               td.text-start Permiten diseñar estrategias comerciales y evaluar el desempeño empresarial.
             tr
-              td.text-start Valores.
+              td.text-start Valores
               td.text-start Son los principios éticos y culturales que orientan el comportamiento organizacional y la toma de decisiones.
               td.text-start Influyen en la cultura empresarial, la relación con clientes y la reputación de la marca.
     
@@ -237,17 +237,17 @@
               th.col-auto.col-lg-auto Ejemplo
           tbody
             tr
-              td.text-start Diversificado.
-              td.text-start Incluye productos de diferentes categorías.
-              td.text-start Procter & Gamble.
+              td.text-start Diversificado
+              td.text-start Incluye productos de diferentes categorías
+              td.text-start Procter & Gamble
             tr
-              td.text-start Concentrado.
-              td.text-start Enfocado en una sola línea de productos.
-              td.text-start Apple (iPhone).
+              td.text-start Concentrado
+              td.text-start Enfocado en una sola línea de productos
+              td.text-start Apple (iPhone)
             tr
-              td.text-start Equilibrado.
-              td.text-start Combina productos tanto de corto y ciclo de vida larga a la vez.
-              td.text-start Ford (vehículos y repuestos).
+              td.text-start Equilibrado
+              td.text-start Combina productos con ciclos de vida cortos y largos de manera simultánea.
+              td.text-start Ford (vehículos y repuestos)
 
     .bg_img_16.mb-0
 
@@ -306,15 +306,15 @@
             img(src='@/assets/curso/tema3/img_25.png', class="img-fluid")
         .col-12.col-lg-7.mb-3(data-aos="zoom-in-right")
           AcordionA(tipo="a"  clase-tarjeta="tarjeta tarjeta--color-acento-contenido-10")
-            div(titulo="Definir objetivos y público objetivo:")
+            div(titulo="Definir objetivos y público objetivo")
               p.mb-0 Establecer el propósito del portafolio y el segmento al que se dirige.
-            div(titulo="Recopilar y analizar información:")
+            div(titulo="Recopilar y analizar información")
               p.mb-0 Reunir datos técnicos, precios y características de los productos o servicios.
-            div(titulo="Identificar la propuesta de valor:")
+            div(titulo="Identificar la propuesta de valor")
               p.mb-0 Destacar atributos y beneficios diferenciales.
-            div(titulo="Segmentar y clasificar:")
+            div(titulo="Segmentar y clasificar")
               p.mb-0 Organizar la oferta por categorías o tipos de cliente.
-            div(titulo="Diseñar la estructura:")
+            div(titulo="Diseñar la estructura")
               p.mb-0 Definir el formato (digital o físico) y su organización.
 
     .bg_img_18.mb-0
@@ -322,15 +322,15 @@
       .row.justify-content-center.align-items-start.mb-5
         .col-12.col-lg-7.order-2.order-lg-1.mb-3(data-aos="zoom-in-right")
           AcordionA(tipo="a"  clase-tarjeta="tarjeta tarjeta--color-acento-contenido-10")
-            div(titulo="Elaborar fichas de producto / servicio:")
+            div(titulo="Elaborar fichas de producto / servicio")
               p.mb-0 Presentar información clara y completa.
-            div(titulo="Incorporar elementos visuales:")
+            div(titulo="Incorporar elementos visuales")
               p.mb-0 Utilizar imágenes y recursos gráficos que faciliten la comprensión.
-            div(titulo="Establecer precios y condiciones:")
-              p.mb-0 Incluir información comercial relevante
-            div(titulo="Integrar respaldo:")
+            div(titulo="Establecer precios y condiciones")
+              p.mb-0 Incluir información comercial relevante.
+            div(titulo="Integrar respaldo")
               p.mb-0 Agregar testimonios o certificaciones que generen confianza.
-            div(titulo="Revisar y actualizar:")
+            div(titulo="Revisar y actualizar")
               p.mb-0 Mantener el portafolio vigente y alineado con el mercado.
         .col-10.col-md-8.col-lg-5.order-1.order-lg-2.mb-3(data-aos="flip-left")
           figure
@@ -373,19 +373,19 @@
             th.col-auto.col-lg-auto Ejemplos
         tbody
           tr
-            td.text-start Internas.
+            td.text-start Internas
             td.text-start Información generada dentro de la empresa a partir de sus operaciones y procesos.
             td.text-start Ventas, bases de datos de clientes, reportes internos, historial de compras.
           tr
-            td.text-start Externas.
+            td.text-start Externas
             td.text-start Información proveniente del entorno que permite analizar el mercado y la competencia.
             td.text-start Estudios de mercado, análisis de competencia, tendencias del sector.
           tr
-            td.text-start Primarias.
+            td.text-start Primarias
             td.text-start Datos obtenidos directamente por la empresa para un objetivo específico de análisis.
             td.text-start Encuestas, entrevistas, observación directa del cliente.
           tr
-            td.text-start Secundarias.
+            td.text-start Secundarias
             td.text-start Información ya existente que ha sido recopilada previamente por otras fuentes.
             td.text-start Informes, estadísticas, publicaciones, bases de datos públicas.
     

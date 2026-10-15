@@ -58,35 +58,35 @@
             th.col-auto.col-lg-auto Uso estratégico
         tbody
           tr
-            td.text-start Análisis de mercado.
-            td.text-start Cliente.
-            td.text-start Preferencias, hábitos, demanda.
-            td.text-start Detectar oportunidades.
+            td.text-start Análisis de mercado
+            td.text-start Cliente
+            td.text-start Preferencias, hábitos, demanda
+            td.text-start Detectar oportunidades
           tr
-            td.text-start Análisis de competencia.
-            td.text-start Entorno competitivo.
-            td.text-start Estrategias, precios, posicionamiento.
-            td.text-start Definir diferenciación.
+            td.text-start Análisis de competencia
+            td.text-start Entorno competitivo
+            td.text-start Estrategias, precios, posicionamiento
+            td.text-start Definir diferenciación
           tr
-            td.text-start Análisis interno.
-            td.text-start Organización.
-            td.text-start Recursos, capacidades, procesos.
-            td.text-start Evaluar desempeño.
+            td.text-start Análisis interno
+            td.text-start Organización
+            td.text-start Recursos, capacidades, procesos
+            td.text-start Evaluar desempeño
           tr
-            td.text-start DOFA.
-            td.text-start Integral.
-            td.text-start Factores internos y externos.
-            td.text-start Formular estrategias.
+            td.text-start DOFA
+            td.text-start Integral
+            td.text-start Factores internos y externos
+            td.text-start Formular estrategias
           tr
-            td.text-start PESTEL.
-            td.text-start Contexto macro.
-            td.text-start Variables externas del entorno.
-            td.text-start Anticipar cambios.
+            td.text-start PESTEL
+            td.text-start Contexto macro
+            td.text-start Variables externas del entorno
+            td.text-start Anticipar cambios
           tr
-            td.text-start Ansoff.
-            td.text-start Crecimiento.
-            td.text-start Relación producto mercado.
-            td.text-start Definir expansión.
+            td.text-start Ansoff
+            td.text-start Crecimiento
+            td.text-start Relación producto mercado
+            td.text-start Definir expansión
 
     .tarjeta.color-primario-5.p-4.rounded-4.mb-5(data-aos="zoom-in-right")
       p.mb-0 Una empresa puede apoyarse en el análisis de competencia para ajustar precios, mientras utiliza PESTEL para anticipar cambios regulatorios que afecten su operación.
@@ -115,29 +115,29 @@
               th.col-auto.col-lg-auto Uso dentro del proceso
           tbody
             tr
-              td.text-start Análisis inicial.
-              td.text-start Estudio de mercado.
-              td.text-start Comprender necesidades del cliente.
+              td.text-start Análisis inicial
+              td.text-start Estudio de mercado
+              td.text-start Comprender necesidades del cliente
             tr
-              td.text-start Evaluación competitiva.
-              td.text-start Análisis de competencia.
-              td.text-start Identificar posicionamiento.
+              td.text-start Evaluación competitiva
+              td.text-start Análisis de competencia
+              td.text-start Identificar posicionamiento
             tr
-              td.text-start Diagnóstico interno.
-              td.text-start Análisis interno.
-              td.text-start Reconocer fortalezas y limitaciones.
+              td.text-start Diagnóstico interno
+              td.text-start Análisis interno
+              td.text-start Reconocer fortalezas y limitaciones
             tr
-              td.text-start Integración estratégica.
-              td.text-start DOFA.
-              td.text-start Relacionar entorno y capacidades.
+              td.text-start Integración estratégica
+              td.text-start DOFA
+              td.text-start Relacionar entorno y capacidades
             tr
-              td.text-start Análisis externo.
-              td.text-start PESTEL.
-              td.text-start Evaluar factores del entorno.
+              td.text-start Análisis externo
+              td.text-start PESTEL
+              td.text-start Evaluar factores del entorno
             tr
-              td.text-start Planeación.
-              td.text-start Ansoff.
-              td.text-start Definir rutas de crecimiento.
+              td.text-start Planeación
+              td.text-start Ansoff
+              td.text-start Definir rutas de crecimiento
 
     .tarjeta.tarjeta--fondo-img-1.p-5.rounded-4.mb-3(data-aos="zoom-in-right")
       .row.justify-content-center.align-items-center.mb-0

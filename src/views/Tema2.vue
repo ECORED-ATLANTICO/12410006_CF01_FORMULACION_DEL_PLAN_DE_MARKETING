@@ -66,25 +66,25 @@
             th.col-auto.col-lg-3 Ejemplo de empresas
         tbody
           tr
-            td.text-start Orientación al cliente.
-            td.text-start Comprender necesidades y expectativas.
-            td.text-start Diseño de productos centrados en el usuario. Personalización de la experiencia.
-            td.text-start Amazon, Apple.
+            td.text-start Orientación al cliente
+            td.text-start Comprender necesidades y expectativas
+            td.text-start Diseño de productos centrados en el usuario. Personalización de la experiencia
+            td.text-start Amazon, Apple
           tr
-            td.text-start Generación de valor.
-            td.text-start Ofrecer beneficios diferenciales.
-            td.text-start Propuesta de valor competitiva. Diferenciación clara frente a competidores.
-            td.text-start Nike, Tesla.
+            td.text-start Generación de valor
+            td.text-start Ofrecer beneficios diferenciales
+            td.text-start Propuesta de valor competitiva. Diferenciación clara frente a competidores
+            td.text-start Nike, Tesla
           tr
-            td.text-start Relación a largo plazo.
-            td.text-start Fidelización del cliente.
-            td.text-start Programas de lealtad. Seguimiento y servicio postventa.
-            td.text-start Starbucks, Coca-Cola.
+            td.text-start Relación a largo plazo
+            td.text-start Fidelización del cliente
+            td.text-start Programas de lealtad. Seguimiento y servicio postventa
+            td.text-start Starbucks, Coca-Cola
           tr
-            td.text-start Adaptación al entorno.
-            td.text-start Ajuste a cambios del mercado.
-            td.text-start Innovación continua. Uso de tendencias y tecnología emergente.
-            td.text-start Netflix, Samsung.
+            td.text-start Adaptación al entorno
+            td.text-start Ajuste a cambios del mercado
+            td.text-start Innovación continua. Uso de tendencias y tecnología emergente
+            td.text-start Netflix, Samsung
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-4.col-xl-3.order-2.order-lg-1
@@ -348,9 +348,9 @@
                 img(src="@/assets/curso/tema2/img_32.svg" )
             .col-12.col-md-8.col-lg-10.p-4
               p.fw-bold.text-white.mb-3 Con el fin de ampliar la información, se sugiere revisar la unidad de mercadeo y el <em>marketing mix</em> (pp. 77-105), a la cual se puede acceder a través del siguiente enlace:
-              a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://unimayor.edu.co/web/images/investigacionesunimayor/Sello_Editorial/2025/Libros_PDF/Gu%C3%ADa_Fundamentos_Marketing.pdf" target="_blank")
+              a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://repositorio.unimayor.edu.co/items/287f0ae3-468c-45bb-833e-4893ce04a36a/full" target="_blank")
                 span Guía de fundamentos de <em>marketing</em>
-                i.fas.fa-play-circle.ms-2
+                i.fas.fa-link.ms-2
 </template>
 
 <script>
