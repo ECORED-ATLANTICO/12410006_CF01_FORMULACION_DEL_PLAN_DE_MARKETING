@@ -193,7 +193,7 @@
               .col-12.col-lg-6.mb-lg-0
                 h2.mb-5.text-white Pódcast
                 TarjetaAudio.color-acento-botones.mb-0.p-4(
-                  texto="<I>Fundamentos del plan de marketing: estrategia para competir y crecer en el mercado</I>"
+                  texto="<I>Estrategia para competir y crecer en el mercado</I>"
                   :audio="require('@/assets/curso/podcast/Podcast_1_CF01.mp3')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = True")
                   .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
