@@ -479,7 +479,7 @@ export default {
         },
         {
           nombre: 'Alexander Donado Molinares',
-          cargo: 'Desarrollador <i>full stack</i>',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
