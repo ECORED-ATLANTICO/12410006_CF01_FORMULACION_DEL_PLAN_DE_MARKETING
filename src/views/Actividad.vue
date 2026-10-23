@@ -2,18 +2,18 @@
   .curso-main-container.pb-3
     BannerInterno(icono="far fa-question-circle" titulo="Actividad didáctica")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-  
-      #Actividad                
-        <Actividad :cuestionario="cuestionario"/>
-  
+      // Para cuestionario usar: ActividadController(:cuestionario="cuestionario") 
+      // Para parrafo usar: ActividadController(:parrafo="parrafo")
+      ActividadController(:cuestionario="cuestionario")
   </template>
 
 <script>
-import Actividad from 'ecored-pkg-fliz/plugin/components/actividad/Actividad.vue'
+import ActividadController from '@ecored-sena/base-kit/plugin/components/actividad/ActividadController.vue'
+
 export default {
   name: 'ActividadDidactica',
   components: {
-    Actividad,
+    ActividadController,
   },
   data: () => ({
     cuestionario: {
@@ -55,9 +55,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            ' El plan de marketing permite organizar y orientar las acciones comerciales en función de los objetivos empresariales.',
+            ' El plan de <em>marketing</em> permite organizar y orientar las acciones comerciales en función de los objetivos empresariales.',
           mensaje_incorrecto:
-            'Revise nuevamente los contenidos relacionados con el plan de marketing y su finalidad estratégica.',
+            'Revise nuevamente los contenidos relacionados con el plan de <em>marketing</em> y su finalidad estratégica.',
         },
         {
           id: 2,
@@ -88,9 +88,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            ' El plan de marketingintegra análisis y planificación para aprovechar las oportunidades del entorno.',
+            ' El plan de <em>marketing</em> integra análisis y planificación para aprovechar las oportunidades del entorno.',
           mensaje_incorrecto:
-            'Revise nuevamente los conceptos relacionados con el plan de marketing.',
+            'Revise nuevamente los conceptos relacionados con el plan de <em>marketing</em>.',
         },
         {
           id: 3,
@@ -123,7 +123,7 @@ export default {
           mensaje_correcto:
             ' El análisis situacional permite evaluar el entorno interno y externo de la organización.',
           mensaje_incorrecto:
-            'Revise nuevamente la estructura del modelo del plan de marketing.',
+            'Revise nuevamente la estructura del modelo del plan de <em>marketing</em>.',
         },
         {
           id: 4,
@@ -252,9 +252,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            ' El producto es uno de los componentes fundamentales del marketing mix.',
+            ' El producto es uno de los componentes fundamentales del <em>marketing mix</em>.',
           mensaje_incorrecto:
-            'Revise nuevamente los contenidos relacionados con el marketing mix.',
+            'Revise nuevamente los contenidos relacionados con el <em>marketing mix</em>.',
         },
         {
           id: 8,
@@ -319,7 +319,7 @@ export default {
           mensaje_correcto:
             ' El precio corresponde al valor monetario asignado a un producto o servicio.',
           mensaje_incorrecto:
-            'Revise nuevamente los contenidos relacionados con el marketing mix.',
+            'Revise nuevamente los contenidos relacionados con el <em>marketing mix</em>.',
         },
         {
           id: 10,
@@ -384,7 +384,7 @@ export default {
           mensaje_correcto:
             ' La plaza hace referencia a los canales y mecanismos de distribución.',
           mensaje_incorrecto:
-            'Revise nuevamente los contenidos relacionados con el marketing mix.',
+            'Revise nuevamente los contenidos relacionados con el <em>marketing mix</em>.',
         },
         {
           id: 12,
@@ -514,7 +514,7 @@ export default {
           mensaje_correcto:
             ' La promoción reúne las acciones de comunicación dirigidas al mercado objetivo.',
           mensaje_incorrecto:
-            'Revise nuevamente los contenidos relacionados con el marketing mix.',
+            'Revise nuevamente los contenidos relacionados con el <em>marketing mix</em>.',
         },
         {
           id: 16,
@@ -647,7 +647,7 @@ export default {
           mensaje_correcto:
             ' Los objetivos permiten orientar la gestión comercial y evaluar el desempeño.',
           mensaje_incorrecto:
-            'Revise nuevamente los contenidos relacionados con objetivos de marketing.',
+            'Revise nuevamente los contenidos relacionados con objetivos de <em>marketing</em>.',
         },
         {
           id: 20,
@@ -679,9 +679,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            ' El plan de marketing orienta las decisiones y estrategias necesarias para alcanzar los objetivos organizacionales.',
+            ' El plan de <em>marketing</em> orienta las decisiones y estrategias necesarias para alcanzar los objetivos organizacionales.',
           mensaje_incorrecto:
-            'Revise nuevamente los contenidos relacionados con el plan de marketing.',
+            'Revise nuevamente los contenidos relacionados con el plan de <em>marketing</em>.',
         },
       ],
       mensaje_final_aprobado:
